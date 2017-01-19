@@ -1,11 +1,11 @@
-<footer>
-  <div class="row" style="margin-top: 100px;">
+<footer style="background: url('http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/Footer2.jpg') no-repeat center bottom; background-size: cover;">
+  <div class="row" style="padding-top: 150px;">
     <div class="columns small-12 medium-6">
-      <img style="float: right;" src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2016/12/pbl_logo.png" class="pbl-logo" width="100px" alt="" />
+      <img style="float: right;" src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2016/12/pbl_logo.png" class="pbl-logo" width="100px" alt="PBL Logo" />
     </div>
     <div class="columns small-12 medium-6">
       <div class="contact-info" style="float: left">
-        <p  style="color: white;">
+        <p class="body-copy" style="color: white; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
           <span style="font-size: 120%; font-weight: bold;">Charles H. Thronson</span><br>
           Parsons Behle & Latimer<br>
           201 South Main Street, Suite 1800<br>
@@ -30,13 +30,12 @@
 
   <div class="row text-center">
     <br><br>
-    <p style="color: white; font-size: 12px;">
+    <p class="body-copy" style="color: white; font-size: 12px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
       All rights reserved &copy; <?php echo date("Y"); ?> - Charles H Thronson Attorney at Law
     </p>
   </div>
 </footer>
 
-<?php wp_footer(); ?>
 
 
 <script type="text/javascript" src="http://198.58.102.147/pbl_med_mal/wp-content/themes/FoundationPress/slick/slick.min.js"></script>
@@ -54,6 +53,9 @@
     }
     }
 </style>
+
+<?php wp_footer(); ?>
+
 <script id="__bs_script__">//<![CDATA[
     document.write("<script async src='http://HOST:3002/browser-sync/browser-sync-client.js?v=2.18.5'><\/script>".replace("HOST", location.hostname));
 //]]></script>
