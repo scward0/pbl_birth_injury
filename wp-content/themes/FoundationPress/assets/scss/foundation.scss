@@ -104,7 +104,7 @@
 
 body, html {
    height: 100%;
-   background: #8E9CA7;
+   background: white;
 }
 
 h1, h2, h3, h4, li, a{
@@ -291,6 +291,23 @@ body {
 }
 
 
+.page-title{
+	font-size: 50px;
+	padding-bottom: 0;
+	margin-top: 200px;
+	color: #384D5E;
+	text-transform: uppercase;
+}
+
+.title-hr{
+	width: 50px;
+	border-bottom: 5px solid #DC8623;
+	padding: 0;
+	margin: 0;
+	line-height: 0;
+	font-size:16px;
+}
+
 
 #about{
   padding: 5% 5% 5% 5%;
@@ -306,14 +323,14 @@ body {
 
 #about p {
   font-size: 18px !important;
-  color: #9FA1A0;
+  color: #656565;
 }
 
-#about ul li {
-	font-size: 18px !important;
-	color: #9FA1A0;
-	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif !important;
-}
+// #about ul li {
+// 	font-size: 18px !important;
+// 	color: #656565;
+// 	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif !important;
+// }
 
 #form{
   padding: 5% 2% 2% 2%;
@@ -324,7 +341,6 @@ body {
   padding: 5%;
   box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.2);
 	font-family: Arial !important;
-  // border: solid 1px #374A58;
 }
 
 .nf-form-title h3{
@@ -388,6 +404,14 @@ label[for="nf-field-9"]{
   background: white;
 }
 
+
+
+
+
+
+
+
+
 #case-study, #blog-post{
   padding: 5% 5% 5% 5%;
 
@@ -406,7 +430,7 @@ label[for="nf-field-9"]{
   margin: 0;
 }
 
-#case-study #date, #articles #date, #blog-post #date{
+#date p{
 	font-family: NewsGothic;
   font-size: 20px !important;
   color: #9FA1A0;

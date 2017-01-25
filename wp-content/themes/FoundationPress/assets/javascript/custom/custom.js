@@ -1,5 +1,26 @@
 $(document).ready(function(){
 
+
+  if ($(window).width() < 1025) {
+    $('.desktop-practice').addClass('hide');
+    $('.mobile-practice').removeClass('hide');
+  }
+  else {
+    $('.desktop-practice').removeClass('hide');
+    $('.mobile-practice').addClass('hide');
+  }
+
+  $(window).resize(function() {
+    if ($(window).width() < 1025) {
+      $('.desktop-practice').addClass('hide');
+      $('.mobile-practice').removeClass('hide');
+    }
+    else {
+      $('.desktop-practice').removeClass('hide');
+      $('.mobile-practice').addClass('hide');
+    }
+  });
+
   $('.slick').slick({
     dots: false,
     infinite: true,

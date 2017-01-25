@@ -1,12 +1,12 @@
-<div class="collapse" style="padding: 0;">
+<div id="parllax-slider" class="collapse" style="padding: 0;">
   <div class="slick">
-    <div style="background: url('http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/BirthInjury_Hero1.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; " src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/hero2.png">
+    <div style="background: url('http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Artboard_1_copy_4.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; " src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/hero2.png">
       <img style="display: none;" alt="" />
     </div>
-    <div style="background: url('http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/BIRTHbackground.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div style="background: url('http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Artboard_1_copy_7.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <img style="display: none;" alt="" />
     </div>
-    <div style="background: url('http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/ABOUTbackground.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div style="background: url('http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Artboard_1_copy_6.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <img style="display: none;" alt="" />
     </div>
   </div>
@@ -24,7 +24,7 @@
   </div>
 </div>
 
- <section class="row no-max collapse" id='pillars' style="padding: 0; margin: 0; background: white; ">
+ <section id='pillars'  class="row no-max collapse" style="padding: 200px 50px 0 50px; margin: 0; background: white; ">
    <div class="small-12 medium-12 large-4 columns">
      <div class="block text-center">
        <img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Experience.jpg" alt="" />
@@ -54,79 +54,93 @@
 
   ?>
 
-<section class="container no-max" id='practice-areas' style="background: white; padding: 5%;">
+<section id="pa" class="container no-max" id='practice-areas' style="background: white; padding: 5%;">
   <?php if( $query->have_posts() ) : while($query->have_posts() ) : $query->the_post() ?>
     <?php  $i++; ?>
-    <div class="row">
 
-      <div class="columns small-12 medium-12 large-6">
+    <div class="row mobile-practice" style="padding: 20px;">
+      <div class="practice-area text-center" style="padding: 20px; border-left: solid 2px #DC8623; ">
+        <a href="<?php the_field('custom_link'); ?>"><?php the_post_thumbnail('medium'); ?></a>
+      </div>
+    </div>
+    <div class="row mobile-practice" style="padding: 20px;">
+      <br>
+      <div style='padding: 5%; border-right: solid 2px #DC8623;'>
+        <h3><?php the_title(); ?></h3>
+        <p style="font-size: 18px;">
+          <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br>
+          <a href="<?php the_field('custom_link'); ?>" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
+        </p>
+      </div>
+    </div>
 
+
+    <div class="row desktop-practice">
+      <div class="columns small-12 medium-12 large-6" style="padding:0;">
         <?php if ( ($i % 2) == 1 ): ?>
           <div style="padding: 5%;">
             <div id="practice-blurb-left">
               <h3 style="text-align: right;"><?php echo get_the_title(); ?></h3>
-              <p style="text-align: right; font-size: 24px;">
+              <p style="text-align: right; font-size: 18px;">
                 <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br>
-                <a href="<?php the_permalink(); ?>" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
+                <a href="<?php the_field('custom_link'); ?>" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
               </p>
             </div>
           </div>
-
-
         <?php else: ?>
           <div class="practice-area text-center" style="padding: 0; margin: 0; float: right;">
-            <a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('large'); ?></a>
+            <a href="<?php the_field('custom_link'); ?>"><?php the_post_thumbnail('large'); ?></a>
           </div>
         <?php endif;   ?>
-
       </div>
-
-
-      <div class="columns small-12 medium-12 large-6">
-
+      <div class="columns small-12 medium-12 large-6" style="padding:0;">
         <?php if ( ($i % 2) == 0 ): ?>
           <div style="padding: 5%">
             <div id="practice-blurb-right">
               <h3 style="text-align: left;"><?php echo get_the_title(); ?></h3>
-              <p style="text-align: left; font-size: 24px;">
+              <p style="text-align: left; font-size: 18px;">
                 <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br>
-                <a href="<?php the_permalink(); ?>" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
+                <a href="<?php the_field('custom_link'); ?>" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
               </p>
             </div>
           </div>
-
-
         <?php else: ?>
           <div class="practice-area text-center" style="padding: 0; margin: 0; float: left;">
-            <a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('large'); ?></a>
+            <a href="<?php the_field('custom_link'); ?>"><?php the_post_thumbnail('large'); ?></a>
           </div>
         <?php endif;   ?>
-
       </div>
-
     </div>
+
   <?php endwhile; endif; wp_reset_postdata(); ?>
 </section>
 
-<section id="video" style="background: white; padding: 100px 0 100px 0;">
+<section id="video" style="background: white;">
   <div class="row text-center">
-    <img src="http://placehold.it/1025x500">
+    <div class="columns small-12 medium-12 large-12" style="background: url('http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/CharlieVideoBackground.jpg'); background-size: cover; height: 500px; padding: 13%;">
+      <span style="border-bottom: 5px solid #DC8623; padding: 0; margin: 0; line-height: 0; font-size:16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <p style="font-size: 52px; color: white;">
+        Charlie's Angles
+      </p>
+      <img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Play.png" width="100" alt="Play" /><br>
+      <span style="border-bottom: 5px solid #DC8623; padding: 0; margin: 0; line-height: 0; font-size:16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </div>
   </div>
 </section>
 
+<section id="abouts" style="padding: 100 0 100 0; margin: 0; background: white">
 
-<section style="padding: 0; margin: 0; background: white">
-  <div class="row">
-    <div class="columns small-12 medium-6 large-6">
+  <div class="row desktop-practice">
+    <div class="columns small-12 medium-12 large-6" style="padding:0;">
         <div class="practice-area" style="padding: 0; margin: 0; float: right;">
           <a href="#"><img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
         </div>
     </div>
-    <div class="columns small-12 medium-6 large-6">
+    <div class="columns small-12 medium-12 large-6" style="padding:0;">
       <div style="padding: 5%">
         <div style="padding: 50px 20px 20px 20px; border-left: solid 2px #DD8724;">
           <h3 style="text-align: left;">MEET CHARLES</h3>
-          <p style="text-align: left; font-size: 24px;">
+          <p style="text-align: left; font-size: 18px;">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
             <a href="#" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
           </p>
@@ -134,27 +148,65 @@
       </div>
     </div>
   </div>
-  <div class="row">
-    <div class="columns small-12 medium-6 large-6">
+  <div class="row desktop-practice" >
+    <div class="columns small-12 medium-12 large-6" style="padding:0;">
       <div style="padding: 5%">
         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
           <h3 style="text-align: right;">ABOUT PARSONS BEHLE & LATIMER</h3>
-          <p style="text-align: right; font-size: 24px;">
+          <p style="text-align: right; font-size: 18px;">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
             <a href="#" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
           </p>
         </div>
       </div>
     </div>
-    <div class="columns small-12 medium-6 large-6">
+    <div class="columns small-12 medium-12 large-6" style="padding:0;">
         <div class="practice-area" style="padding: 0; margin: 0; float: left;">
           <a href="#"><img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
         </div>
     </div>
   </div>
+
+  <div class="row mobile-practice" style='padding: 20px;'>
+    <div class="columns small-12 medium-12 large-6">
+        <div class="practice-area text-center" style="padding: 20px; border-left: solid 2px #DC8623; ">
+          <a href="#"><img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
+        </div>
+    </div>
+    <div class="columns small-12 medium-12 large-6">
+      <div style="padding: 5%">
+        <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
+          <h3 style="text-align: left;">MEET CHARLES</h3>
+          <p style="text-align: left; font-size: 18px;">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
+            <a href="#" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row mobile-practice" style='padding: 20px;' >
+    <div class="columns small-12 medium-12 large-6">
+        <div class="practice-area text-center" style="padding: 20px; border-left: solid 2px #DC8623; ">
+          <a href="#"><img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
+        </div>
+    </div>
+    <div class="columns small-12 medium-12 large-6">
+      <div style="padding: 5%">
+        <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
+          <h3>ABOUT PARSONS BEHLE & LATIMER</h3>
+          <p style="font-size: 18px;">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
+            <a href="#" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </section>
 
-<section>
+<section id="recognitions">
   <style media="screen">
     .awards{
       width: 95px;

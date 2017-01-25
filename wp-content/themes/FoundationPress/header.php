@@ -81,7 +81,7 @@
 				}
 				</style>
 				<li class="home"><a class="desk-logo" href="<?php bloginfo('url'); ?>"><img src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2016/12/charles_thronson_logo.png" width="300" style="z-index: 5;"alt="<?php bloginfo('name'); ?>"/></a></li>
-				<li><span id="schedule">Schedule a free consultation: 800-532-0021</span></li>
+				<li><a href="http://localhost/PBL_Birth_Injury/contact/"><span id="schedule">Schedule a free consultation: 800-532-0021</span></a></li>
 				<i class="fa fa-bars fa-4x"  onclick="menu1.togglemenu(); return false"></i>
 			</ul>
 			<div class="navi hide">
@@ -97,7 +97,3 @@
 		</nav>
 	</header>
 </div>
-
-
-	<section class="container">
-		<?php do_action( 'foundationpress_after_header' );
