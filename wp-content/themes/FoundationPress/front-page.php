@@ -1,12 +1,12 @@
 <div id="parllax-slider" class="collapse" style="padding: 0;">
   <div class="slick">
-    <div style="background: url('http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Artboard_1_copy_4.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; " src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/hero2.png">
+    <div style="background: url('http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/Artboard_1_copy_4.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; " src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/hero2.png">
       <img style="display: none;" alt="" />
     </div>
-    <div style="background: url('http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Artboard_1_copy_7.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div style="background: url('http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/Artboard_1_copy_7.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <img style="display: none;" alt="" />
     </div>
-    <div style="background: url('http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Artboard_1_copy_6.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div style="background: url('http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/Artboard_1_copy_6.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <img style="display: none;" alt="" />
     </div>
   </div>
@@ -18,7 +18,7 @@
         HANDLING BIRTH INJURY CASES
       </p>
       <p class="text-center">
-        <a id="learn-more" class="button large" href="http://localhost/PBL_Birth_Injury/birth-injuries/">DO I HAVE A CASE?</a>
+        <a id="learn-more" class="button large" href="http://198.58.102.147/pbl_med_mal/birth-injuries/">DO I HAVE A CASE?</a>
       </p>
     </div>
   </div>
@@ -27,19 +27,19 @@
  <section id='pillars'  class="row no-max collapse" style="padding: 200px 50px 0 50px; margin: 0; background: white; ">
    <div class="small-12 medium-12 large-4 columns">
      <div class="block text-center">
-       <img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Experience.jpg" alt="" />
+       <img src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/Experience.jpg" alt="" />
        <h3 >Experience<br><br><span class="smaller">Led by Charles Thronson, the Personal Injury practice group at Parsons Behle and Latimer has more than thirty years of experience representing clients in complex medical malpractice cases.</span></h3>
      </div>
    </div>
    <div class="small-12 medium-12 large-4 columns">
      <div class="block text-center">
-       <img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Results.jpg" alt="" />
+       <img src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/Results.jpg" alt="" />
        <h3>Results<br><br><span class="smaller">We represent victims of medical negligence and believe they deserve the best possible legal representation in Utah. Our track record includes achieving a number of multi-million dollar settlements for our clients.</span></h3>
      </div>
    </div>
    <div class="small-12 medium-12 large-4 columns">
      <div class="block text-center">
-       <img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Integrity.jpg" alt="" />
+       <img src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/Integrity.jpg" alt="" />
        <h3>Integrity<br><br><span class="smaller">Our clients face enormous financial and emotional hardships as a result of medical malpractice. Our team works hand-in-hand to understand our client's injuries and assess their economic impact.</span></h3>
      </div>
    </div>
@@ -117,12 +117,12 @@
 
 <section id="video" style="background: white;">
   <div class="row text-center">
-    <div class="columns small-12 medium-12 large-12" style="background: url('http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/CharlieVideoBackground.jpg'); background-size: cover; height: 500px; padding: 13%;">
+    <div class="columns small-12 medium-12 large-12" style="background: url('http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/CharlieVideoBackground.jpg'); background-size: cover; height: 500px; padding: 13%;">
       <span style="border-bottom: 5px solid #DC8623; padding: 0; margin: 0; line-height: 0; font-size:16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <p style="font-size: 52px; color: white;">
         Charlie's Angles
       </p>
-      <img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Play.png" width="100" alt="Play" /><br>
+      <img src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/Play.png" width="100" alt="Play" /><br>
       <span style="border-bottom: 5px solid #DC8623; padding: 0; margin: 0; line-height: 0; font-size:16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     </div>
   </div>
@@ -133,7 +133,7 @@
   <div class="row desktop-practice">
     <div class="columns small-12 medium-12 large-6" style="padding:0;">
         <div class="practice-area" style="padding: 0; margin: 0; float: right;">
-          <a href="#"><img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
+          <a href="#"><img src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
         </div>
     </div>
     <div class="columns small-12 medium-12 large-6" style="padding:0;">
@@ -162,7 +162,7 @@
     </div>
     <div class="columns small-12 medium-12 large-6" style="padding:0;">
         <div class="practice-area" style="padding: 0; margin: 0; float: left;">
-          <a href="#"><img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
+          <a href="#"><img src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
         </div>
     </div>
   </div>
@@ -170,7 +170,7 @@
   <div class="row mobile-practice" style='padding: 20px;'>
     <div class="columns small-12 medium-12 large-6">
         <div class="practice-area text-center" style="padding: 20px; border-left: solid 2px #DC8623; ">
-          <a href="#"><img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
+          <a href="#"><img src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
         </div>
     </div>
     <div class="columns small-12 medium-12 large-6">
@@ -188,7 +188,7 @@
   <div class="row mobile-practice" style='padding: 20px;' >
     <div class="columns small-12 medium-12 large-6">
         <div class="practice-area text-center" style="padding: 20px; border-left: solid 2px #DC8623; ">
-          <a href="#"><img src="http://localhost/PBL_Birth_Injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
+          <a href="#"><img src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
         </div>
     </div>
     <div class="columns small-12 medium-12 large-6">
