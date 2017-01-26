@@ -14,8 +14,8 @@
 	<head>
 		<meta charset="<?php bloginfo( 'charset' ); ?>" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="stylesheet" type="text/css" href="http://198.58.102.147/pbl_med_mal/wp-content/themes/FoundationPress/slick/slick.css"/>
-		<link rel="stylesheet" type="text/css" href="http://198.58.102.147/pbl_med_mal/wp-content/themes/FoundationPress/slick/slick-theme.css"/>
+		<link rel="stylesheet" type="text/css" href="http://198.58.102.147/pbl_birth_injury/wp-content/themes/FoundationPress/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="http://198.58.102.147/pbl_birth_injury/wp-content/themes/FoundationPress/slick/slick-theme.css"/>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 
 		<?php wp_head(); ?>
@@ -48,14 +48,14 @@
 					text-transform: uppercase;
 					/*font-weight: bold;*/
 				}
-				a[href="http://198.58.102.147/pbl_med_mal/practice_area/catastrophic-patient-injuries/"], a[href="http://www.redirectdigital.com/"], a[href="http://198.58.102.147/pbl_med_mal/practice_area/medication-errors/"], a[href="http://198.58.102.147/pbl_med_mal/practice_area/surgical-errors/"], a[href="http://198.58.102.147/pbl_med_mal/practice_area/hospital-misdiagnosis/"]{
+				a[href="http://198.58.102.147/pbl_birth_injury/practice_area/catastrophic-patient-injuries/"], a[href="http://www.redirectdigital.com/"], a[href="http://198.58.102.147/pbl_birth_injury/practice_area/medication-errors/"], a[href="http://198.58.102.147/pbl_birth_injury/practice_area/surgical-errors/"], a[href="http://198.58.102.147/pbl_birth_injury/practice_area/hospital-misdiagnosis/"]{
 					font-size: 80% !important;
 					font-weight: 300;
 				}
-				a[href="http://198.58.102.147/pbl_med_mal/practice_area/catastrophic-patient-injuries/"]{
+				a[href="http://198.58.102.147/pbl_birth_injury/practice_area/catastrophic-patient-injuries/"]{
 					margin-bottom: 20px;
 				}
-				a[href="http://198.58.102.147/pbl_med_mal/about/"]{
+				a[href="http://198.58.102.147/pbl_birth_injury/about/"]{
 					border-top: solid 5px #fcbc1e;
 					width: 60%;
 					margin-left: auto;
@@ -80,8 +80,8 @@
 					}
 				}
 				</style>
-				<li class="home"><a class="desk-logo" href="<?php bloginfo('url'); ?>"><img src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2016/12/charles_thronson_logo.png" width="300" style="z-index: 5;"alt="<?php bloginfo('name'); ?>"/></a></li>
-				<li><a href="http://198.58.102.147/pbl_med_mal/contact/"><span id="schedule">Schedule a free consultation: 800-532-0021</span></a></li>
+				<li class="home"><a class="desk-logo" href="<?php bloginfo('url'); ?>"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2016/12/charles_thronson_logo.png" width="300" style="z-index: 5;"alt="<?php bloginfo('name'); ?>"/></a></li>
+				<li><a href="http://198.58.102.147/pbl_birth_injury/contact/"><span id="schedule">Schedule a free consultation: 800-532-0021</span></a></li>
 				<i class="fa fa-bars fa-4x"  onclick="menu1.togglemenu(); return false"></i>
 			</ul>
 			<div class="navi hide">
