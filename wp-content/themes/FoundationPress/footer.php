@@ -1,7 +1,7 @@
-<footer style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Footer2.jpg') no-repeat center bottom; background-size: cover;">
+<footer style="background: url('http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/Footer2.jpg') no-repeat center bottom; background-size: cover;">
   <div class="row" style="padding-top: 150px;">
     <div class="columns small-12 medium-6">
-      <img style="float: right;" src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2016/12/pbl_logo.png" class="pbl-logo" width="100px" alt="PBL Logo" />
+      <img style="float: right;" src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2016/12/pbl_logo.png" class="pbl-logo" width="100px" alt="PBL Logo" />
     </div>
     <div class="columns small-12 medium-6">
       <div class="contact-info" style="float: left">
@@ -55,9 +55,5 @@
 </style>
 
 <?php wp_footer(); ?>
-
-<script id="__bs_script__">//<![CDATA[
-    document.write("<script async src='http://HOST:3002/browser-sync/browser-sync-client.js?v=2.18.5'><\/script>".replace("HOST", location.hostname));
-//]]></script>
 </body>
 </html>
