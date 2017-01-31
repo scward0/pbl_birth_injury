@@ -35,9 +35,6 @@
   </div>
 </div>
 
-
-
-
  <section id='pillars'  class="row no-max collapse" style="padding: 200px 50px 0 50px; margin: 0; background: white; ">
    <div class="small-12 medium-12 large-4 columns">
      <div class="block text-center">
@@ -73,13 +70,13 @@
     <?php  $i++; ?>
 
     <div class="row mobile-practice" style="padding: 20px;">
-      <div class="practice-area text-center" style="padding: 20px; border-left: solid 2px #DC8623; ">
+      <div class="practice-area text-center" style="padding: 20px;">
         <a href="<?php the_field('custom_link'); ?>"><?php the_post_thumbnail('medium'); ?></a>
       </div>
     </div>
     <div class="row mobile-practice practice" style="padding: 20px;">
       <br>
-      <div style='padding: 5%; border-right: solid 2px #DC8623;'>
+      <div style='padding: 0 5% 0 5%; border-right: solid 2px #DC8623;'>
         <h3><?php the_title(); ?></h3>
         <p>
           <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br>
@@ -183,12 +180,12 @@
 
   <div class="row mobile-practice practice" style='padding: 20px;'>
     <div class="columns small-12 medium-12 large-6">
-        <div class="practice-area text-center" style="padding: 20px; border-left: solid 2px #DC8623; ">
+        <div class="practice-area text-center" style="padding: 20px;">
           <a href="http://198.58.102.147/pbl_birth_injury/about/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
         </div>
     </div>
     <div class="columns small-12 medium-12 large-6">
-      <div style="padding: 5%">
+      <div style="padding: 0 5% 0 5%">
         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
           <h3>MEET CHARLES</h3>
           <p>
@@ -201,12 +198,12 @@
   </div>
   <div class="row mobile-practice practice" style='padding: 20px;' >
     <div class="columns small-12 medium-12 large-6">
-        <div class="practice-area text-center" style="padding: 20px; border-left: solid 2px #DC8623; ">
+        <div class="practice-area text-center" style="padding: 20px;">
           <a href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
         </div>
     </div>
     <div class="columns small-12 medium-12 large-6">
-      <div style="padding: 5%">
+      <div style="padding: 0 5% 0 5%">
         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
           <h3>ABOUT PARSONS BEHLE & LATIMER</h3>
           <p>
