@@ -10,6 +10,17 @@
       <img style="display: none;" alt="" />
     </div>
   </div>
+  <div class="slick mobile-slick show-for-small-only">
+    <div style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Background4.jpg'); height: 100%;  background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover; ">
+      <img style="display: none; height:100vh !important; width: 100%; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;" alt="slick hidden" />
+    </div>
+    <div style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Background7.jpg'); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;">
+      <img style="display: none; height:100vh !important; width: 100%; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;" alt="slick hidden" />
+    </div>
+    <div style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Background6.jpg'); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;">
+      <img style="display: none; height:100vh !important; width: 100%; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;" alt="slick hidden" />
+    </div>
+  </div>
   <?php get_header(); ?>
   <div class="headline">
     <div class="headline-border">
@@ -23,6 +34,9 @@
     </div>
   </div>
 </div>
+
+
+
 
  <section id='pillars'  class="row no-max collapse" style="padding: 200px 50px 0 50px; margin: 0; background: white; ">
    <div class="small-12 medium-12 large-4 columns">
