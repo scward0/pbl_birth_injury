@@ -284,6 +284,10 @@ body {
 	}
 }
 
+#practice-blurb-left p, #practice-blurb-left h3 {
+	text-align: right;
+}
+
 @media screen and (min-width: 1024px){
 	#practice-blurb-right{
 		padding: 50px 20px 20px 20px;

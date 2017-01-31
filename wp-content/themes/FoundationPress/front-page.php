@@ -91,8 +91,8 @@
         <?php if ( ($i % 2) == 1 ): ?>
           <div style="padding: 5%;">
             <div id="practice-blurb-left">
-              <h3 style="text-align: right;"><?php the_field('front_page_title');?></h3>
-              <p style="text-align: right;">
+              <?php the_field('front_page_title');?>
+              <p>
                 <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br>
                 <a href="<?php the_field('custom_link'); ?>" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
               </p>
@@ -108,8 +108,8 @@
         <?php if ( ($i % 2) == 0 ): ?>
           <div style="padding: 5%">
             <div id="practice-blurb-right">
-              <h3 style="text-align: right;"><?php the_field('front_page_title');?></h3>
-              <p style="text-align: left; ">
+              <?php the_field('front_page_title');?>
+              <p>
                 <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br>
                 <a href="<?php the_field('custom_link'); ?>" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
               </p>
