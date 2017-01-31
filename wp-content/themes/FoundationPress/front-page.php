@@ -152,7 +152,7 @@
         <div style="padding: 50px 20px 20px 20px; border-left: solid 2px #DD8724;">
           <h3>MEET<br>CHARLES</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
+            35 years of experience in personal injury and medical malpractice resulting in some of the largest verdicts and settlements in the Western United States.<br>
             <a href="http://198.58.102.147/pbl_birth_injury/about/" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
           </p>
         </div>
@@ -165,7 +165,7 @@
         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
           <h3 style="text-align: right;">ABOUT PARSONS<br>BEHLE & LATIMER</h3>
           <p style="text-align: right; font-size: 18px;">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
+            Since 1882 our success has been firmly rooted in our fundamental core calue: client service; professsional integrity; ethics and professionalism; collegiality; and community service.<br>
             <a href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
           </p>
         </div>
@@ -189,7 +189,7 @@
         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
           <h3>MEET CHARLES</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
+            35 years of experience in personal injury and medical malpractice resulting in some of the largest verdicts and settlements in the Western United States.<br>
             <a href="http://198.58.102.147/pbl_birth_injury/about/" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
           </p>
         </div>
@@ -207,7 +207,7 @@
         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
           <h3>ABOUT PARSONS BEHLE & LATIMER</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
+            Since 1882 our success has been firmly rooted in our fundamental core calue: client service; professsional integrity; ethics and professionalism; collegiality; and community service.<br>
             <a href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
           </p>
         </div>
