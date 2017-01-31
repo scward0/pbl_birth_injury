@@ -181,37 +181,37 @@
     </div>
   </div>
 
-  <div class="row mobile-practice" style='padding: 20px;'>
+  <div class="row mobile-practice practice" style='padding: 20px;'>
     <div class="columns small-12 medium-12 large-6">
         <div class="practice-area text-center" style="padding: 20px; border-left: solid 2px #DC8623; ">
-          <a href="#"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
+          <a href="http://198.58.102.147/pbl_birth_injury/about/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
         </div>
     </div>
     <div class="columns small-12 medium-12 large-6">
       <div style="padding: 5%">
         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
-          <h3 style="text-align: left;">MEET CHARLES</h3>
-          <p style="text-align: left; font-size: 18px;">
+          <h3>MEET CHARLES</h3>
+          <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
-            <a href="#" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
+            <a href="http://198.58.102.147/pbl_birth_injury/about/" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
           </p>
         </div>
       </div>
     </div>
   </div>
-  <div class="row mobile-practice" style='padding: 20px;' >
+  <div class="row mobile-practice practice" style='padding: 20px;' >
     <div class="columns small-12 medium-12 large-6">
         <div class="practice-area text-center" style="padding: 20px; border-left: solid 2px #DC8623; ">
-          <a href="#"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
+          <a href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
         </div>
     </div>
     <div class="columns small-12 medium-12 large-6">
       <div style="padding: 5%">
         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
           <h3>ABOUT PARSONS BEHLE & LATIMER</h3>
-          <p style="font-size: 18px;">
+          <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
-            <a href="#" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
+            <a href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
           </p>
         </div>
       </div>
