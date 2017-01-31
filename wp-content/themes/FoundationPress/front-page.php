@@ -1,5 +1,5 @@
 <div id="parllax-slider" class="collapse" style="padding: 0;">
-  <div class="slick">
+  <div class="slick desktop-slick hide-for-small-only">
     <div style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Artboard_1_copy_4.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; " src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/hero2.png">
       <img style="display: none;" alt="" />
     </div>
