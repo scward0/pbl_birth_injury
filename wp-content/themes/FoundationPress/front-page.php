@@ -80,7 +80,7 @@
     <div class="row mobile-practice" style="padding: 20px;">
       <br>
       <div style='padding: 5%; border-right: solid 2px #DC8623;'>
-        <h3><?php the_title(); ?></h3>
+        <h3  style="font-size: 32px; color: #384D53;"><?php the_title(); ?></h3>
         <p style="font-size: 18px;">
           <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br>
           <a href="<?php the_field('custom_link'); ?>" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
