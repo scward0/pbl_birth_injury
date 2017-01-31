@@ -7818,6 +7818,14 @@ body {
     padding: 50px 20px 20px 20px;
     border-right: solid 2px #DD8724; } }
 
+.practice h3 {
+  font-size: 32px;
+  color: #384D53; }
+
+.practice p {
+  color: #384D53;
+  font-size: 18px; }
+
 .transition {
   -webkit-transition: all 1s ease-in-out;
   transition: all 1s ease-in-out; }
