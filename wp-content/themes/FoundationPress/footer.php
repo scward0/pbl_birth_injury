@@ -1,7 +1,7 @@
-<footer style="background: url('http://198.58.102.147/pbl_med_mal/wp-content/uploads/2017/01/Footer2.jpg') no-repeat center bottom; background-size: cover;">
+<footer style="background: url('http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/01/footer3.jpg') no-repeat center bottom; background-size: cover;">
   <div class="row" style="padding-top: 150px;">
     <div class="columns small-12 medium-6">
-      <img style="float: right;" src="http://198.58.102.147/pbl_med_mal/wp-content/uploads/2016/12/pbl_logo.png" class="pbl-logo" width="100px" alt="PBL Logo" />
+      <img style="float: right;" src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2016/12/pbl_logo.png" class="pbl-logo" width="100px" alt="PBL Logo" />
     </div>
     <div class="columns small-12 medium-6">
       <div class="contact-info" style="float: left">
@@ -10,7 +10,7 @@
           Parsons Behle & Latimer<br>
           201 South Main Street, Suite 1800<br>
           Salt Lake City, Utah 84111<br>
-          800-532-0021
+          800-643-7752
         </p>
       </div>
     </div>
@@ -24,21 +24,22 @@
         margin-left: auto !important;
         margin-right: auto !important;
         text-align: center !important;
+        padding: 10px !important;
       }
     }
   </style>
 
-  <div class="row text-center">
+  <div class="row text-center" style="padding: 0 10px 0 10px;">
     <br><br>
     <p class="body-copy" style="color: white; font-size: 12px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
-      All rights reserved &copy; <?php echo date("Y"); ?> - Charles H Thronson Attorney at Law
+      All rights reserved. &copy; <?php echo date("Y"); ?> <br> Charles H Thronson Attorney at Law
     </p>
   </div>
 </footer>
 
 
 
-<script type="text/javascript" src="http://198.58.102.147/pbl_birth_injury/wp-content/themes/FoundationPress/slick/slick.min.js"></script>
+<script type="text/javascript" src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/themes/FoundationPress/slick/slick.min.js"></script>
 <style media="screen">
     @keyframes slideInUp {
     from {
@@ -55,5 +56,7 @@
 </style>
 
 <?php wp_footer(); ?>
+
+
 </body>
 </html>
