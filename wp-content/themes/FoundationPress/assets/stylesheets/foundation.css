@@ -7765,6 +7765,7 @@ body {
 
 @media screen and (max-width: 425px) {
   .headline {
+    top: 60%;
     width: 85% !important;
     padding: 2%; } }
 
