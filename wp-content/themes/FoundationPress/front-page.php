@@ -91,7 +91,7 @@
         <?php if ( ($i % 2) == 1 ): ?>
           <div style="padding: 5%;">
             <div id="practice-blurb-left">
-              <h3 style="text-align: right;"><?php echo get_the_title(); ?></h3>
+              <h3 style="text-align: right;"><?php the_field('front_page_title');?></h3>
               <p style="text-align: right;">
                 <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br>
                 <a href="<?php the_field('custom_link'); ?>" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
@@ -108,7 +108,7 @@
         <?php if ( ($i % 2) == 0 ): ?>
           <div style="padding: 5%">
             <div id="practice-blurb-right">
-              <h3 style="text-align: left;"><?php echo get_the_title(); ?></h3>
+              <h3 style="text-align: right;"><?php the_field('front_page_title');?></h3>
               <p style="text-align: left; ">
                 <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br>
                 <a href="<?php the_field('custom_link'); ?>" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
@@ -150,7 +150,7 @@
     <div class="columns small-12 medium-12 large-6" style="padding:0;">
       <div style="padding: 5%">
         <div style="padding: 50px 20px 20px 20px; border-left: solid 2px #DD8724;">
-          <h3>MEET CHARLES</h3>
+          <h3>MEET<br>CHARLES</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
             <a href="http://198.58.102.147/pbl_birth_injury/about/" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
@@ -163,7 +163,7 @@
     <div class="columns small-12 medium-12 large-6" style="padding:0;">
       <div style="padding: 5%">
         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
-          <h3 style="text-align: right;">ABOUT PARSONS BEHLE & LATIMER</h3>
+          <h3 style="text-align: right;">ABOUT PARSONS<br>BEHLE & LATIMER</h3>
           <p style="text-align: right; font-size: 18px;">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
             <a href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/" style="color: #E39F69; font-size: 16px; text-transform: uppercase;">Read More</a>
