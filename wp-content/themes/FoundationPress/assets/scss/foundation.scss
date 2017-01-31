@@ -235,6 +235,17 @@ body {
 	padding: 20px;
 }
 
+#pillars{
+	padding: 200px 50px 0 50px;
+	margin: 0;
+	background: white;
+}
+
+@media screen and (max-width: 1024px){
+	#pillars{
+		padding: 100px 50px 0 50px;
+	}
+}
 
 #pillars .block{
   padding:5%;
