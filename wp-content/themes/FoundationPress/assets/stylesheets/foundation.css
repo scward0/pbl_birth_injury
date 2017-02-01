@@ -7744,7 +7744,7 @@ body {
   padding: 0;
   margin: 0;
   line-height: 40px;
-  letter-spacing: 3px; }
+  letter-spacing: 5px; }
 
 .headline p {
   font-family: NewsGothic;
@@ -7752,7 +7752,8 @@ body {
   font-size: 36px;
   text-transform: uppercase;
   padding: 0;
-  margin: 0; }
+  margin: 0;
+  letter-spacing: 3px; }
 
 @media screen and (max-width: 768px) {
   .headline {
