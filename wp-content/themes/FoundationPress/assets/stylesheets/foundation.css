@@ -7842,6 +7842,11 @@ body {
   color: #384D53;
   font-size: 18px; }
 
+.read-more {
+  color: #E39F69;
+  font-size: 24px;
+  text-transform: uppercase; }
+
 .transition {
   -webkit-transition: all 1s ease-in-out;
   transition: all 1s ease-in-out; }
