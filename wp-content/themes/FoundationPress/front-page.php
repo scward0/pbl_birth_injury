@@ -133,7 +133,7 @@
       <p style="font-size: 52px; color: white;">
         Charlie's Angels
       </p>
-      <?php echo do_shortcode('[video_lightbox_youtube video_id="G7z74BvLWUg&rel=false" width="75%" anchor="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/Play.png"]') ?><br>
+      <?php echo do_shortcode('[video_lightbox_youtube video_id="G7z74BvLWUg&rel=false" width="640" height="480" anchor="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/Play.png"]') ?><br>
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     </div>
   </div>
