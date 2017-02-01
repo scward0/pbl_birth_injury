@@ -25,7 +25,7 @@
   <div class="headline">
     <div class="headline-border">
       <h1 class="text-center">ONE OF THE NATION'S LARGEST FIRMS</h1>
-      <p class="text-center">
+      <p class="text-center subhead">
         HANDLING BIRTH INJURY CASES
       </p>
       <p class="text-center">
