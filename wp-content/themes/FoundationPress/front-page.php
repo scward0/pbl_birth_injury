@@ -126,15 +126,15 @@
   <?php endwhile; endif; wp_reset_postdata(); ?>
 </section>
 
-<section id="video" style="background: white;">
-  <div class="row text-center">
-    <div class="columns small-12 medium-12 large-12" style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/CharlieVideoBackground.jpg'); background-size: cover; height: 500px; padding: 13%;">
-      <span style="border-bottom: 5px solid #DC8623; padding: 0; margin: 0; line-height: 0; font-size:16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<section id="video" style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/CharlieVideoBackground.jpg'); background-size: cover;">
+  <div class="row text-center align-middle">
+    <div class="columns small-12 medium-12 large-12">
+      <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <p style="font-size: 52px; color: white;">
         Charlie's Angels
       </p>
       <img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Play.png" width="100" alt="Play" /><br>
-      <span style="border-bottom: 5px solid #DC8623; padding: 0; margin: 0; line-height: 0; font-size:16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     </div>
   </div>
 </section>
