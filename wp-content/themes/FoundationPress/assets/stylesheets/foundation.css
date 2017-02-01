@@ -7819,8 +7819,12 @@ body {
   #pillars .block h3 .smaller {
     line-height: 28px; } }
 
-#practice-blurb-left p, #practice-blurb-left h3 {
+#practice-blurb-left p {
   text-align: right; }
+
+#practice-blurb-left h3 {
+  text-align: right;
+  text-transform: uppercase; }
 
 @media screen and (min-width: 1024px) {
   #practice-blurb-right {
