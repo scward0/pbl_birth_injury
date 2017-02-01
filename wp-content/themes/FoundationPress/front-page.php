@@ -134,7 +134,8 @@
         Charlie's Angels
       </p>
       <a data-open="video-modal"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Play.png" width="100" alt="Play" /></a><br>
-      <div class="reveal" id="video-modal" data-reveal>
+      <p><a data-open="exampleModal1">Click me for a modal</a></p>
+      <div class="reveal" id="exampleModal1" data-reveal>
         <h1>Awesome. I Have It.</h1>
         <p class="lead">Your couch. It is mine.</p>
         <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p>
