@@ -133,7 +133,15 @@
       <p style="font-size: 52px; color: white;">
         Charlie's Angels
       </p>
-      <img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Play.png" width="100" alt="Play" /><br>
+      <a data-open="video-modal"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Play.png" width="100" alt="Play" /></a><br>
+      <div class="reveal" id="video-modal" data-reveal>
+        <h1>Awesome. I Have It.</h1>
+        <p class="lead">Your couch. It is mine.</p>
+        <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p>
+        <button class="close-button" data-close aria-label="Close modal" type="button">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     </div>
   </div>
