@@ -126,7 +126,7 @@
   <?php endwhile; endif; wp_reset_postdata(); ?>
 </section>
 
-<section id="video" style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/CharlieVideoBackground.jpg'); background-size: cover;">
+<section id="video" style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/CharlieVideoBackground.jpg'); background-size: cover; height: 600px;">
   <div class="row text-center align-middle">
     <div class="columns small-12 medium-12 large-12">
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
