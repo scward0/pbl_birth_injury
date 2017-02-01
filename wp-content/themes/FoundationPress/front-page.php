@@ -134,13 +134,14 @@
         Charlie's Angels
       </p>
       <a data-open="video-modal"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Play.png" width="100" alt="Play" /></a><br>
-      <a href="#" data-reveal-id="myModal">Click Me For A Modal</a>
+      <p><a data-toggle="animatedModal10">Click me for a modal</a></p>
 
-      <div id="myModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-        <h2 id="modalTitle">Awesome. I have it.</h2>
-        <p class="lead">Your couch.  It is mine.</p>
-        <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p>
-        <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+      <div class="reveal" id="animatedModal10" data-reveal data-close-on-click="true" data-animation-in="spin-in" data-animation-out="spin-out">
+        <h1>Whoa, I'm dizzy!</h1>
+        <p class='lead'>There are many options for animating modals, check out the Motion UI library to see them all</p>
+        <button class="close-button" data-close aria-label="Close reveal" type="button">
+          <span aria-hidden="true">&times;</span>
+        </button>
       </div>
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     </div>
