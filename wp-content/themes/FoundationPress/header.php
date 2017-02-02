@@ -46,8 +46,9 @@
 				div.fullscreenmenu ul.nav-menu li a{
 					font-size: 110%;
 					text-transform: uppercase;
-					padding: 5%;
+					padding: 20px 0 !important;
 				}
+
 				@media screen and (max-width: 850px){
 					#schedule{
 						display: none;
