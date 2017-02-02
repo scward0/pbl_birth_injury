@@ -7837,7 +7837,8 @@ body {
 .practice h3 {
   font-size: 36px;
   color: #384D53;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  line-height: 32px; }
 
 .practice p {
   color: #384D53;
