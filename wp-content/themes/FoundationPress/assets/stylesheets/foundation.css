@@ -7690,10 +7690,8 @@ body {
   padding-top: 10px;
   padding-bottom: 10px;
   background: #78838a;
-  opacity: .8;
   top: 0;
   width: 100%;
-  z-index: 5;
   height: 100px !important; }
 
 #schedule {
