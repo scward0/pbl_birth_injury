@@ -21,7 +21,7 @@
       <div id="entry">
         <?php echo wp_trim_words( get_field('entry'), 40, '...'); ?><br>
       </div>
-      <a href="<?php the_permalink(); ?>" style="color: #E39F69; text-decoration: underline; font-size: 16px;">Full Article</a>
+      <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
       <br><br><br>
       <?php endwhile; endif; wp_reset_postdata(); ?>
     </div>

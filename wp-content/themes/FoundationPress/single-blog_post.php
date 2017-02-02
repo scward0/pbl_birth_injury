@@ -7,7 +7,9 @@
   <div class="row">
     <div class="columns small-12 medium-12 large-8" id="blog-post">
         <div id="date"><?php echo get_field('date'); ?></div><br>
-        <div id='entry'><?php echo get_field('entry'); ?></div>
+        <div id='entry'><?php echo get_field('entry'); ?></div><br>
+
+        <a href="http://198.58.102.147/pbl_birth_injury/blog/" class="read-more">All Posts</a>
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
         <?php the_field('ninja'); ?>
