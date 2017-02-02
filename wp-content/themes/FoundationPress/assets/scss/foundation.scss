@@ -455,27 +455,13 @@ label[for="nf-field-9"]{
   background: white;
 }
 
-
-
-
-
-
-
-
-
-#case-study, #blog-post{
-  padding: 5% 5% 5% 5%;
-
-}
-
-#case-study h4, #case-study h3, #articles h4, #articles h3, #blog-post h4, #blog-post h3{
+ #blog-post h4, #blog-post h3{
   text-transform: uppercase;
   color: #374A58;
   margin: 0;
 }
 
-
-#case-study p, #articles p, #blog-post p{
+#blog-post p{
   font-size: 16px !important;
   color: #9FA1A0;
   margin: 0;
@@ -488,6 +474,17 @@ label[for="nf-field-9"]{
   margin: 0;
   text-transform: uppercase;
 }
+
+	#entry p{
+  font-size: 16px !important;
+  color: #9FA1A0;
+  margin: 0;
+}
+
+#blog-post{
+  padding: 5% 5% 5% 5%;
+}
+
 
 .contact-info p{
 	font-size: 16px !important;

@@ -6,12 +6,8 @@
   </div>
   <div class="row">
     <div class="columns small-12 medium-12 large-8" id="blog-post">
-      <p id="date" style="font-size: 20px !important; color: #9FA1A0; margin: 0; text-transform: uppercase;">
-        <?php echo get_field('date'); ?>
-      </p>
-      <p id="entry" class="body-copy" style="font-size: 16px !important; color: #9FA1A0;margin: 0; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
-        <?php echo get_field('entry'); ?>
-      </p>
+        <?php get_field('date'); ?>
+        <div id='entry'><?php get_field('entry'); ?></div>
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
         <?php the_field('ninja'); ?>
