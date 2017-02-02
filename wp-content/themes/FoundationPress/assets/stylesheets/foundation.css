@@ -7824,8 +7824,7 @@ body {
   text-align: right; }
 
 #practice-blurb-left h3 {
-  text-align: right;
-  text-transform: uppercase; }
+  text-align: right; }
 
 @media screen and (min-width: 1024px) {
   #practice-blurb-right {
@@ -7837,7 +7836,8 @@ body {
 
 .practice h3 {
   font-size: 36px;
-  color: #384D53; }
+  color: #384D53;
+  text-transform: uppercase; }
 
 .practice p {
   color: #384D53;
