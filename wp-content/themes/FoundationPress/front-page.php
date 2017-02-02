@@ -79,7 +79,7 @@
       <div style='padding: 0 5% 0 5%; border-right: solid 2px #DC8623;'>
         <h3><?php the_title(); ?></h3>
         <p>
-          <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br>
+          <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br><br>
           <a class="read-more" href="<?php the_field('custom_link'); ?>">Read More</a>
         </p>
       </div>
@@ -93,7 +93,7 @@
             <div id="practice-blurb-left">
               <?php the_field('front_page_title');?>
               <p>
-                <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br>
+                <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br><br>
                 <a class="read-more" href="<?php the_field('custom_link'); ?>">Read More</a>
               </p>
             </div>
@@ -110,7 +110,7 @@
             <div id="practice-blurb-right">
               <?php the_field('front_page_title');?>
               <p>
-                <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br>
+                <?php echo wp_trim_words( get_field('description'), 40, '...'); ?><br><br>
                 <a class="read-more" href="<?php the_field('custom_link'); ?>">Read More</a>
               </p>
             </div>
@@ -152,7 +152,7 @@
         <div style="padding: 50px 20px 20px 20px; border-left: solid 2px #DD8724;">
           <h3>MEET<br>CHARLES</h3>
           <p>
-            35 years of experience in personal injury and medical malpractice resulting in some of the largest verdicts and settlements in the Western United States.<br>
+            35 years of experience in personal injury and medical malpractice resulting in some of the largest verdicts and settlements in the Western United States.<br><br>
             <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/about/">Read More</a>
           </p>
         </div>
@@ -165,7 +165,7 @@
         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
           <h3 style="text-align: right;">ABOUT PARSONS<br>BEHLE & LATIMER</h3>
           <p style="text-align: right; font-size: 18px;">
-            Since 1882 our success has been firmly rooted in our fundamental core calue: client service; professsional integrity; ethics and professionalism; collegiality; and community service.<br>
+            Since 1882 our success has been firmly rooted in our fundamental core calue: client service; professsional integrity; ethics and professionalism; collegiality; and community service.<br><br>
             <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/">Read More</a>
           </p>
         </div>
@@ -189,7 +189,7 @@
         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
           <h3>MEET CHARLES</h3>
           <p>
-            35 years of experience in personal injury and medical malpractice resulting in some of the largest verdicts and settlements in the Western United States.<br>
+            35 years of experience in personal injury and medical malpractice resulting in some of the largest verdicts and settlements in the Western United States.<br><br>
             <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/about/">Read More</a>
           </p>
         </div>
@@ -207,7 +207,7 @@
         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
           <h3>ABOUT PARSONS BEHLE & LATIMER</h3>
           <p>
-            Since 1882 our success has been firmly rooted in our fundamental core calue: client service; professsional integrity; ethics and professionalism; collegiality; and community service.<br>
+            Since 1882 our success has been firmly rooted in our fundamental core calue: client service; professsional integrity; ethics and professionalism; collegiality; and community service.<br><br>
             <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/">Read More</a>
           </p>
         </div>
