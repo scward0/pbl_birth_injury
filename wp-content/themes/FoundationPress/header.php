@@ -43,11 +43,10 @@
 				.navcontent{
 					padding: 1%;
 				}
-				.nav-menu li a{
+				div.fullscreenmenu ul.nav-menu li a{
 					font-size: 110%;
 					text-transform: uppercase;
-					padding: 20px 0 20px 0;
-					/*font-weight: bold;*/
+					padding: 5%;
 				}
 				@media screen and (max-width: 850px){
 					#schedule{
