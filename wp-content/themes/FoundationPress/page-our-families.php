@@ -14,10 +14,10 @@
             while ( have_rows('families') ) : the_row();
             $i++;
             ?>
-            <div class="columns small-6 large-3">
-              <span class="text-center" >
+            <div class="row small-up-2 large-up-5">
+              <div class="column">
                 <img src="<?php the_sub_field('image');?>" alt="" style="padding: 5px;"/>
-              </span>
+              </div>
             </div>
             <?php
             endwhile;
