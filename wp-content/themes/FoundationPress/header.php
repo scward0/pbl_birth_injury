@@ -48,7 +48,10 @@
 					text-transform: uppercase;
 					padding: 10px 0 !important;
 				}
-				.nav-smaller{
+				a[href="http://198.58.102.147/pbl_birth_injury/practice_area/statutes-of-limitation/"],
+				a[href="http://198.58.102.147/pbl_birth_injury/practice_area/cerebral-palsy/"],
+				a[href="http://198.58.102.147/pbl_birth_injury/practice_area/injuries-to-children/"],
+				a[href="http://www.medicalmalpracticeattorneyinfo.com/"] {
 					font-size: 90% !important;
 				}
 				@media screen and (max-width: 850px){
