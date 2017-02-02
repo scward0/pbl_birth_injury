@@ -6,10 +6,8 @@
   </div>
   <div class="row">
     <div class="columns small-12 medium-12 large-8" id="blog-post">
-        <div id="date">
-          <?php get_field('date'); ?>
-        </div>
-        <div id='entry'><?php get_field('entry'); ?></div>
+        <div id="date"><?php echo get_field('date'); ?></div>
+        <div id='entry'><?php echo get_field('entry'); ?></div>
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
         <?php the_field('ninja'); ?>
