@@ -9,20 +9,20 @@
       <?php the_field('content') ?>
       <?php
         // check if the repeater field has rows of data
-        if( have_rows('families') ): $i = 0;
-          // loop through the rows of data
+        if( have_rows('families') ): $i = 0;    ?>
+      
+          <div class="row small-up-2 large-up-5">
+            <?php
             while ( have_rows('families') ) : the_row();
             $i++;
             ?>
-            <div class="row small-up-2 large-up-5">
               <div class="column">
                 <img src="<?php the_sub_field('image');?>" alt="" style="padding: 5px;"/>
               </div>
-            </div>
-            <?php
-            endwhile;
-        endif;
-        ?>
+          <?php endwhile;?>
+          </div>
+      <?php endif;?>
+
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
         <?php the_field('ninja'); ?>
