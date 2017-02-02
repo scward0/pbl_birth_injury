@@ -6,6 +6,16 @@
   </div>
   <div class="row">
     <div class="columns small-12 medium-12 large-8" id="blog-post">
+
+      <div class="menu-centered">
+        <ul class="menu">
+          <li><a href="#">All</a></li>
+          <li><a href="#">Birth Injury</a></li>
+          <li><a href="#">Cerebral Palsy</a></li>
+        </ul>
+      </div>
+
+      
       <?php
         $args = array(
           'post_type' => 'blog_post'
