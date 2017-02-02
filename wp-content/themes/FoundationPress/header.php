@@ -52,7 +52,8 @@
 				a[href="http://198.58.102.147/pbl_birth_injury/practice_area/cerebral-palsy/"],
 				a[href="http://198.58.102.147/pbl_birth_injury/practice_area/injuries-to-children/"],
 				a[href="http://www.medicalmalpracticeattorneyinfo.com/"] {
-					font-size: 90% !important;
+					font-size: 85% !important;
+					padding: 8px 0 !important;
 				}
 				@media screen and (max-width: 850px){
 					#schedule{
