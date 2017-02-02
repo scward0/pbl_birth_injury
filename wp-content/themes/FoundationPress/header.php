@@ -65,6 +65,11 @@
 						top: 20px;
 						right: 30px;
 					}
+					div.fullscreenmenu ul.nav-menu li a{
+						font-size: 110%;
+						text-transform: uppercase;
+						padding: 5px 0 !important;
+					}
 				}
 				</style>
 				<li class="home"><a class="desk-logo" href="<?php bloginfo('url'); ?>"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/charles_thronson_logo.png" width="300" style="z-index: 5; opacity: 1;"alt="<?php bloginfo('name'); ?>"/></a></li>
