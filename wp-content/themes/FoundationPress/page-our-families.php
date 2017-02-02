@@ -10,8 +10,8 @@
       <?php
         // check if the repeater field has rows of data
         if( have_rows('families') ): $i = 0;    ?>
-      
-          <div class="row small-up-2 large-up-5">
+
+          <div class="row small-up-3 medium-up-3 large-up-5">
             <?php
             while ( have_rows('families') ) : the_row();
             $i++;
