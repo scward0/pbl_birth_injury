@@ -130,7 +130,7 @@
   <div class="row text-center align-middle">
     <div class="columns small-12 medium-12 large-12 charlies-angels">
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-      <p style="font-size: 52px; color: white;">
+      <p style="font-size: 52px; color: white; text-transform: uppercase;">
         Charlie's Angels
       </p>
       <?php echo do_shortcode('[video_lightbox_youtube video_id="G7z74BvLWUg&rel=false" width="640" height="480" anchor="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/Play.png"]') ?><br>

@@ -7846,7 +7846,8 @@ body {
 .read-more {
   color: #E39F69;
   font-size: 24px;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  margin-top: 10px; }
 
 .transition {
   -webkit-transition: all 1s ease-in-out;
