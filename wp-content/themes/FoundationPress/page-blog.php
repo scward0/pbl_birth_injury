@@ -5,7 +5,7 @@
     <h1 class="text-center page-title"><?php the_title(); ?> <br><span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></h1>
   </div>
   <div class="row">
-    <div class="columns small-12 medium-12 large-8" id="about">
+    <div class="columns small-12 medium-12 large-8" id="blog-post">>
       <?php
         $args = array(
           'post_type' => 'blog_post'

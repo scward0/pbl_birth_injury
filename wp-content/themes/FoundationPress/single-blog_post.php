@@ -1,7 +1,7 @@
 <div class="container" style="background: url('<?php the_field('background_image'); ?>'); background-size: cover;" >
   <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
   <?php get_header(); ?>
-  <div class="row text-center" >
+  <div class="row text-center" id="blog-post"> >
     <h1 class="text-center page-title"><?php the_title(); ?> <br><span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></h1>
   </div>
   <div class="row">
