@@ -15,7 +15,6 @@
         </ul>
       </div>
 
-
       <?php
         $args = array(
           'post_type' => 'blog_post'
@@ -36,7 +35,7 @@
       <?php endwhile; endif; wp_reset_postdata(); ?>
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
-        <?php the_field('ninja'); ?>
+      <?php the_field('ninja'); ?>
     </div>
   </div>
   <div class="row">
