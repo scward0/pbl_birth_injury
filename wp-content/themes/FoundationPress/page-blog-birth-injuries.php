@@ -24,8 +24,8 @@
         ?>
 
       <?php if( $query->have_posts() ) : while($query->have_posts() ) : $query->the_post(); ?>
-        <?php $cat = get_field("category"); ?>
-        <?php if( $cat ); ?>
+        <?php# $cat = get_field("category"); ?>
+        <?php # if( $cat ); ?>
           <h4><?php the_title(); ?></h4>
           <div id="date">
             <?php the_field('date'); ?>
@@ -35,7 +35,7 @@
           </div>
           <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
           <br><br><br>
-        <?php endif; ?>
+        <?php # endif; ?>
       <?php endwhile; endif; wp_reset_postdata(); ?>
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
