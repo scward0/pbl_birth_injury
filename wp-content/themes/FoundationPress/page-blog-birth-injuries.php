@@ -14,8 +14,6 @@
           <li><a href="http://198.58.102.147/pbl_birth_injury/blog-cerebral-palsy/">Cerebral Palsy</a></li>
         </ul>
       </div>
-
-
       <?php
         $args = array(
           'post_type' => 'blog_post'
@@ -24,8 +22,8 @@
         ?>
 
       <?php if( $query->have_posts() ) : while($query->have_posts() ) : $query->the_post(); ?>
-        <?php# $cat = get_field("category"); ?>
-        <?php # if( $cat ); ?>
+        <?php $cat = get_field("category"); ?>
+        <?php echo $cat ?>
           <h4><?php the_title(); ?></h4>
           <div id="date">
             <?php the_field('date'); ?>
