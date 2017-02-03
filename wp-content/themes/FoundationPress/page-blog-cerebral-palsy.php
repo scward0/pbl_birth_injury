@@ -24,15 +24,17 @@
         ?>
 
       <?php if( $query->have_posts() ) : while($query->have_posts() ) : $query->the_post(); ?>
-      <h4><?php the_title(); ?></h4>
-      <div id="date">
-        <?php the_field('date'); ?>
-      </div>
-      <div id="entry">
-        <?php echo wp_trim_words( get_field('entry'), 40, '...'); ?><br>
-      </div>
-      <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
-      <br><br><br>
+        <?php if( get_field('category') == 'Cerebral Palsy' ) ?>
+          <h4><?php the_title(); ?></h4>
+          <div id="date">
+            <?php the_field('date'); ?>
+          </div>
+          <div id="entry">
+            <?php echo wp_trim_words( get_field('entry'), 40, '...'); ?><br>
+          </div>
+          <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
+          <br><br><br>
+        <?php endif; ?>
       <?php endwhile; endif; wp_reset_postdata(); ?>
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
