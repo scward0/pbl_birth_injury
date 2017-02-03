@@ -24,6 +24,9 @@
         ?>
 
       <?php if( $query->have_posts() ) : while($query->have_posts() ) : $query->the_post(); ?>
+      <div id="category">
+        <?php the_field('category') ?>
+      </div>
       <h4><?php the_title(); ?></h4>
       <div id="date">
         <?php the_field('date'); ?>
