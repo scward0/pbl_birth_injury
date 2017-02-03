@@ -24,7 +24,8 @@
         ?>
 
       <?php if( $query->have_posts() ) : while($query->have_posts() ) : $query->the_post(); ?>
-        <?php if( get_field('category') == 3 ); ?>
+        <?php $cat = get_field("category"); ?>
+        <?php if( $cat == 3 ); ?>
           <h4><?php the_title(); ?></h4>
           <div id="date">
             <?php the_field('date'); ?>
