@@ -16,33 +16,33 @@
       </div>
 
       <?php
-        $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
+        $paged = ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : 1;
         $args = array(
           'post_type' => 'blog_post',
           'posts_per_page' => '5',
           'paged' => $paged
         );
-        $query = new WP_Query ($args);
+        $the_query = new WP_Query ($args);
         ?>
 
-      <?php if( $query->have_posts() ) : while($query->have_posts() ) : $query->the_post(); ?>
-      <div id="category">
-        <?php the_field('category') ?>
-      </div>
-      <h4><?php the_title(); ?></h4>
-      <div id="date">
-        <?php the_field('date'); ?>
-      </div>
-      <div id="entry">
-        <?php echo wp_trim_words( get_field('entry'), 40, '...'); ?><br>
-      </div>
-      <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
-      <br><br><br>
-
+      <?php if( $the_query->have_posts() ) : while($the_query->have_posts() ) : $the_query->the_post(); ?>
+        <div id="category">
+          <?php the_field('category') ?>
+        </div>
+        <h4><?php the_title(); ?></h4>
+        <div id="date">
+          <?php the_field('date'); ?>
+        </div>
+        <div id="entry">
+          <?php echo wp_trim_words( get_field('entry'), 40, '...'); ?><br>
+        </div>
+        <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
+        <br><br><br>
       <?php endwhile; endif; wp_reset_postdata(); ?>
 
-      <?php next_posts_link(); ?>
-      <?php previous_posts_link(); ?>
+      <div class="nav-previous alignleft"><?php next_posts_link( 'Older posts' ); ?></div>
+      <div class="nav-next alignright"><?php previous_posts_link( 'Newer posts' ); ?></div>
+
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
         <?php the_field('ninja'); ?>
