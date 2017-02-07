@@ -39,9 +39,10 @@
       <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
       <br><br><br>
 
-      <?php echo paginate_links(); ?>
-
       <?php endwhile; endif; wp_reset_postdata(); ?>
+
+      <?php next_posts_link(); ?>
+      <?php previous_posts_link(); ?>
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
         <?php the_field('ninja'); ?>

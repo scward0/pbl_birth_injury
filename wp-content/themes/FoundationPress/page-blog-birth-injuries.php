@@ -14,7 +14,7 @@
           <li><a href="http://198.58.102.147/pbl_birth_injury/blog-cerebral-palsy/">Cerebral Palsy</a></li>
         </ul>
       </div>
-      
+
       <?php
         $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
         $args = array(
@@ -26,8 +26,9 @@
         ?>
 
       <?php if( $query->have_posts() ) : while($query->have_posts() ) : $query->the_post(); ?>
-        <?php $cat = get_field("category"); ?>
-        <?php echo $cat ?>
+          <div id="category">
+            <?php the_field('category') ?>
+          </div>
           <h4><?php the_title(); ?></h4>
           <div id="date">
             <?php the_field('date'); ?>
@@ -37,7 +38,6 @@
           </div>
           <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
           <br><br><br>
-        <?php # endif; ?>
       <?php endwhile; endif; wp_reset_postdata(); ?>
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
