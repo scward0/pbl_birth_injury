@@ -12,7 +12,7 @@
         <a href="http://198.58.102.147/pbl_birth_injury/blog/" class="read-more">All Posts</a>
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
-        <?php the_field('ninja'); ?>
+        <?php echo do_shortcode('[ninja_form id=2]'); ?>
     </div>
   </div>
 </div>

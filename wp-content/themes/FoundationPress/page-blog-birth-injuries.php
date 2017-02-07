@@ -14,6 +14,7 @@
           <li><a href="http://198.58.102.147/pbl_birth_injury/blog-cerebral-palsy/">Cerebral Palsy</a></li>
         </ul>
       </div>
+      
       <?php
         $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
         $args = array(
