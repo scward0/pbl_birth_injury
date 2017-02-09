@@ -14,6 +14,8 @@
  * @since FoundationPress 1.0.0
  */
 
+ 
+
  add_theme_support('menus');
 
 /** Various clean up functions */
