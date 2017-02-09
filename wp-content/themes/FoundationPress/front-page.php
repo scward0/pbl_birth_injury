@@ -39,19 +39,19 @@
    <div class="small-12 medium-12 large-4 columns">
      <div class="block text-center">
        <img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Experience.jpg" alt="" />
-       <h3 >Experience<br><br><span class="smaller">Led by Charles Thronson, the Personal Injury practice group at Parsons Behle and Latimer has more than thirty years of experience representing clients in complex medical malpractice cases.</span></h3>
+       <h3 >Experience<br><br><span class="smaller">Led by Charles Thronson, the Personal Injury practice group at Parsons Behle & Latimer has more than thirty years of experience representing clients in birth injury, cerebral palsy, and severe child injury cases.</span></h3>
      </div>
    </div>
    <div class="small-12 medium-12 large-4 columns">
      <div class="block text-center">
        <img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Results.jpg" alt="" />
-       <h3>Results<br><br><span class="smaller">We represent victims of medical negligence and believe they deserve the best possible legal representation in Utah. Our track record includes achieving a number of multi-million dollar settlements for our clients.</span></h3>
+       <h3>Results<br><br><span class="smaller">We represent innocent victims of medical negligence and believe injured children and their families deserve the best possible legal representation possible. Our track record includes achieving a number of multi-million dollar settlements for our clients.</span></h3>
      </div>
    </div>
    <div class="small-12 medium-12 large-4 columns">
      <div class="block text-center">
        <img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Integrity.jpg" alt="" />
-       <h3>Integrity<br><br><span class="smaller">Our clients face enormous financial and emotional hardships as a result of medical malpractice. Our team works hand-in-hand to understand our client's injuries and assess their economic impact.</span></h3>
+       <h3>Integrity<br><br><span class="smaller">Our clients face enormous financial and emotional hardships as a result of medical malpractice. Our team works hand-in-hand to assess the economic impact of birth injuries on both the child and their family.</span></h3>
      </div>
    </div>
  </section>
