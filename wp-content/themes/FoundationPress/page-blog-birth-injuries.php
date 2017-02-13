@@ -30,7 +30,7 @@
 
           $term = get_field('category');
 
-          if( $term  == [3] || [3,4] ): ?>
+          if( $term  == [3] || ([3] && [3,4]) ): ?>
 
           <h4><?php the_title(); ?></h4>
           <div id="date">
