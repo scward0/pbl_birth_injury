@@ -30,7 +30,7 @@
 
           $term = get_field('category');
 
-          if( $term  == [3] ): ?>
+          if( $term  == [4] ): ?>
 
           <h4><?php the_title(); ?></h4>
           <div id="date">
@@ -40,9 +40,8 @@
             <?php echo wp_trim_words( get_field('entry'), 40, '...'); ?><br>
           </div>
           <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
-
+          <br><br><br>
           <?php endif; ?>
-        <br><br><br>
       <?php endwhile; endif; wp_reset_postdata(); ?>
 
       <?php
