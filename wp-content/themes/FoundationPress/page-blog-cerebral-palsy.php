@@ -19,7 +19,7 @@
         $paged = ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : 1;
         $args = array(
           'post_type' => 'blog_post',
-          'posts_per_page' => '5',
+          // 'posts_per_page' => '5',
           'paged' => $paged
         );
         $wp_query = new WP_Query ($args);
@@ -48,15 +48,15 @@
       <?php endwhile; endif; wp_reset_postdata(); ?>
 
       <?php
-        if ( function_exists( 'foundationpress_pagination' ) ) :
-          foundationpress_pagination();
-        elseif ( is_paged() ) :
+        // if ( function_exists( 'foundationpress_pagination' ) ) :
+        //   foundationpress_pagination();
+        // elseif ( is_paged() ) :
         ?>
-          <nav id="post-nav">
-            <div class="post-previous"><?php next_posts_link( __( '&larr; Older posts', 'foundationpress' ) ); ?></div>
-            <div class="post-next"><?php previous_posts_link( __( 'Newer posts &rarr;', 'foundationpress' ) ); ?></div>
-          </nav>
-        <?php endif; ?>
+          <!-- <nav id="post-nav">
+            <div class="post-previous"><?php // next_posts_link( __( '&larr; Older posts', 'foundationpress' ) ); ?></div>
+            <div class="post-next"><?php // previous_posts_link( __( 'Newer posts &rarr;', 'foundationpress' ) ); ?></div>
+          </nav> -->
+        <?php  // endif; ?>
 
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
