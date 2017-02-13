@@ -26,6 +26,21 @@
         ?>
 
       <?php if( $wp_query->have_posts() ) : while($wp_query->have_posts() ) : $wp_query->the_post(); ?>
+
+
+
+        <?php
+
+          $term = get_field('category');
+
+          if( $term ): ?>
+
+          	<h2><?php echo $term->name; ?></h2>
+
+          <?php endif; ?>
+
+
+
         <div id="category">
           <?php the_field('category') ?>
         </div>
