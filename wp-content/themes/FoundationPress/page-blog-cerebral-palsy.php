@@ -41,10 +41,10 @@
             <?php echo wp_trim_words( get_field('entry'), 40, '...'); ?><br>
           </div>
           <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
-
+          <br><br><br>
           <?php endif; ?>
 
-        <br><br><br>
+
       <?php endwhile; endif; wp_reset_postdata(); ?>
 
       <?php
