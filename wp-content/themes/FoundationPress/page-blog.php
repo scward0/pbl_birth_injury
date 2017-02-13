@@ -50,7 +50,7 @@
 
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
-        <?php the_field('ninja'); ?>
+        <?php echo do_shortcode('[ninja_form id=2]') ?>
     </div>
   </div>
   <div class="row">
