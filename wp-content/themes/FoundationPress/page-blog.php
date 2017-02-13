@@ -1,5 +1,5 @@
 <div class="container" style="background: url('<?php the_field('background'); ?>'); background-size: cover;" >
-  <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+  <?php //if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
   <?php get_header(); ?>
   <div class="row text-center" >
     <h1 class="text-center page-title"><?php the_title(); ?> <br><span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></h1>
@@ -22,10 +22,10 @@
           'posts_per_page' => '5',
           'paged' => $paged
         );
-        $the_query = new WP_Query ($args);
+        $wp_query = new WP_Query ($args);
         ?>
 
-      <?php if( $the_query->have_posts() ) : while($the_query->have_posts() ) : $the_query->the_post(); ?>
+      <?php if( $wp_query->have_posts() ) : while($wp_query->have_posts() ) : $wp_query->the_post(); ?>
         <div id="category">
           <?php the_field('category') ?>
         </div>
@@ -40,8 +40,16 @@
         <br><br><br>
       <?php endwhile; endif; wp_reset_postdata(); ?>
 
-      <div class="nav-previous alignleft"><?php next_posts_link( 'Older posts' ); ?></div>
-      <div class="nav-next alignright"><?php previous_posts_link( 'Newer posts' ); ?></div>
+      <?php
+        if ( function_exists( 'foundationpress_pagination' ) ) :
+          foundationpress_pagination();
+        elseif ( is_paged() ) :
+        ?>
+          <nav id="post-nav">
+            <div class="post-previous"><?php next_posts_link( __( '&larr; Older posts', 'foundationpress' ) ); ?></div>
+            <div class="post-next"><?php previous_posts_link( __( 'Newer posts &rarr;', 'foundationpress' ) ); ?></div>
+          </nav>
+        <?php endif; ?>
 
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
@@ -57,10 +65,10 @@
   </div>
 </div>
 
-<?php endwhile; else : ?>
+<?php //endwhile; else : ?>
 
-<p><?php _e( 'Sorry, no pages found' ); ?></p>
+<p><?php //_e( 'Sorry, no pages found' ); ?></p>
 
-<?php endif; ?>
+<?php //endif; ?>
 
 <?php get_footer(); ?>

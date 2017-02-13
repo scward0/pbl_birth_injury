@@ -17,7 +17,7 @@
 		<link rel="stylesheet" type="text/css" href="http://198.58.102.147/pbl_birth_injury/wp-content/themes/FoundationPress/slick/slick.css"/>
 		<link rel="stylesheet" type="text/css" href="http://198.58.102.147/pbl_birth_injury/wp-content/themes/FoundationPress/slick/slick-theme.css"/>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
-
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<?php wp_head(); ?>
 	</head>
 

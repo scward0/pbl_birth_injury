@@ -1,5 +1,5 @@
 <div class="container" style="background: url('<?php the_field('background'); ?>'); background-size: cover;" >
-  <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+  <?php //if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
   <?php get_header(); ?>
   <div class="row text-center" >
     <h1 class="text-center page-title"><?php the_title(); ?> <br><span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></h1>
@@ -16,26 +16,44 @@
       </div>
 
       <?php
+        $paged = ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : 1;
         $args = array(
-          'post_type' => 'blog_post'
+          'post_type' => 'blog_post',
+          'posts_per_page' => '5',
+          'paged' => $paged
         );
-        $query = new WP_Query ($args);
+        $wp_query = new WP_Query ($args);
         ?>
 
-      <?php if( $query->have_posts() ) : while($query->have_posts() ) : $query->the_post(); ?>
-          <h4><?php the_title(); ?></h4>
-          <div id="date">
-            <?php the_field('date'); ?>
-          </div>
-          <div id="entry">
-            <?php echo wp_trim_words( get_field('entry'), 40, '...'); ?><br>
-          </div>
-          <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
-          <br><br><br>
+      <?php if( $wp_query->have_posts() ) : while($wp_query->have_posts() ) : $wp_query->the_post(); ?>
+        <div id="category">
+          <?php the_field('category') ?>
+        </div>
+        <h4><?php the_title(); ?></h4>
+        <div id="date">
+          <?php the_field('date'); ?>
+        </div>
+        <div id="entry">
+          <?php echo wp_trim_words( get_field('entry'), 40, '...'); ?><br>
+        </div>
+        <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
+        <br><br><br>
       <?php endwhile; endif; wp_reset_postdata(); ?>
+
+      <?php
+        if ( function_exists( 'foundationpress_pagination' ) ) :
+          foundationpress_pagination();
+        elseif ( is_paged() ) :
+        ?>
+          <nav id="post-nav">
+            <div class="post-previous"><?php next_posts_link( __( '&larr; Older posts', 'foundationpress' ) ); ?></div>
+            <div class="post-next"><?php previous_posts_link( __( 'Newer posts &rarr;', 'foundationpress' ) ); ?></div>
+          </nav>
+        <?php endif; ?>
+
     </div>
     <div id="form" class="columns small-12 medium-12 large-4">
-      <?php the_field('ninja'); ?>
+        <?php the_field('ninja'); ?>
     </div>
   </div>
   <div class="row">
@@ -47,10 +65,10 @@
   </div>
 </div>
 
-<?php endwhile; else : ?>
+<?php //endwhile; else : ?>
 
-<p><?php _e( 'Sorry, no pages found' ); ?></p>
+<p><?php //_e( 'Sorry, no pages found' ); ?></p>
 
-<?php endif; ?>
+<?php //endif; ?>
 
 <?php get_footer(); ?>
