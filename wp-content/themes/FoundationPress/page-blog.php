@@ -26,9 +26,6 @@
         ?>
 
       <?php if( $wp_query->have_posts() ) : while($wp_query->have_posts() ) : $wp_query->the_post(); ?>
-        <div id="category">
-          <?php the_field('category') ?>
-        </div>
         <h4><?php the_title(); ?></h4>
         <div id="date">
           <?php the_field('date'); ?>
