@@ -30,7 +30,7 @@
 
           $term = get_field('category');
 
-          if( array_key_exists(3, $term)  ): ?>
+          if( $term  == [3] ): ?>
 
           <h4><?php the_title(); ?></h4>
           <div id="date">
