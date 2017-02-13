@@ -33,9 +33,9 @@
 
           $term = get_field('category');
 
-          if( $term ): ?>
+          if( $term  == [4] ): ?>
 
-          	<h2><?php echo $term->name; ?></h2>
+          	<h2>YAY</h2>
 
           <?php endif; ?>
 
