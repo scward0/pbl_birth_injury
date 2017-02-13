@@ -27,31 +27,23 @@
 
       <?php if( $wp_query->have_posts() ) : while($wp_query->have_posts() ) : $wp_query->the_post(); ?>
 
-
-
         <?php
 
           $term = get_field('category');
 
           if( $term  == [4] ): ?>
 
-          	<h2>YAY</h2>
+          <h4><?php the_title(); ?></h4>
+          <div id="date">
+            <?php the_field('date'); ?>
+          </div>
+          <div id="entry">
+            <?php echo wp_trim_words( get_field('entry'), 40, '...'); ?><br>
+          </div>
+          <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
 
           <?php endif; ?>
 
-
-
-        <div id="category">
-          <?php the_field('category') ?>
-        </div>
-        <h4><?php the_title(); ?></h4>
-        <div id="date">
-          <?php the_field('date'); ?>
-        </div>
-        <div id="entry">
-          <?php echo wp_trim_words( get_field('entry'), 40, '...'); ?><br>
-        </div>
-        <a href="<?php the_permalink(); ?>" class="read-more">Full Article</a>
         <br><br><br>
       <?php endwhile; endif; wp_reset_postdata(); ?>
 
