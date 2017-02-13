@@ -9,9 +9,9 @@
 
       <div class="menu-centered">
         <ul class="menu menu-categories">
-          <li><a href="http://198.58.102.147/pbl_birth_injury/blog/">All</a></li>
-          <li><a href="http://198.58.102.147/pbl_birth_injury/blog-birth-injuries/">Birth Injury</a></li>
-          <li><a href="http://198.58.102.147/pbl_birth_injury/blog-cerebral-palsy/">Cerebral Palsy</a></li>
+          <li><a style="text-transform: uppercase; border-bottom: solid 3px #DC8623;"  href="http://198.58.102.147/pbl_birth_injury/blog/">All</a></li>
+          <li><a style="text-transform: uppercase;" href="http://198.58.102.147/pbl_birth_injury/blog-birth-injuries/">Birth Injury</a></li>
+          <li><a style="text-transform: uppercase;" href="http://198.58.102.147/pbl_birth_injury/blog-cerebral-palsy/">Cerebral Palsy</a></li>
         </ul>
       </div>
 
