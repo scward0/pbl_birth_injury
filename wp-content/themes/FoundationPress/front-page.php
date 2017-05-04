@@ -35,7 +35,7 @@
   </div>
 </div>
 
- <section id='pillars'  class="row no-max collapse">
+ <section id='pillars'  class="row no-max collapse" style="padding: 50px 50px 0 50px !important;">
    <div class="small-12 medium-12 large-4 columns">
      <div class="block text-center">
        <img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Experience.jpg" alt="" />
