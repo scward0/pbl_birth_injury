@@ -59,6 +59,163 @@
    </div>
  </section>
 
+
+ <section id="recognitions">
+   <style media="screen">
+     .awards{
+       width: 95px;
+       margin: 8px;
+     }
+     @media screen and (max-width: 640px){
+       .awards{
+         width: 50px;
+         margin: 15px;
+       }
+       .pbl-logo{
+       width: 75px;
+       }
+     }
+     @media screen and (max-width: 640px){
+       .awards{
+         width: 120px;
+         margin: 15px;
+       }
+     }
+   </style>
+   <div class="container" style="background: #9FACB5;">
+     <div class="footer">
+       <div class="row" style="padding-top: 50px;">
+         <div class="columns small-12 medium-2 large-2">
+           <a href="https://www.justice.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/AAFJ_logo.png"  class="awards" alt="AAFJ" />
+         </div>
+         <div class="columns small-12 medium-2 large-2">
+           <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/SuperLaw100.png" class="awards" alt="Top 100" /></center></a>
+         </div>
+         <div class="columns small-12 medium-2 large-2">
+           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/BestLogo_2012.png"  class="awards" alt="Best 2012" /></center></a>
+         </div>
+         <div class="columns small-12 medium-2 large-2">
+           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/BestLogo_2016.png" class="awards" alt="Best 2016" /></center></a>
+         </div>
+         <div class="columns small-12 medium-2 large-2">
+           <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/SuperLawMountain.png" class="awards" alt="Mountain States" /></center></a>
+         </div>
+         <div class="columns small-12 medium-2 large-2" >
+           <a href="https://www.utahassociationforjustice.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/UAFJ_logo.png" class="awards" alt="UAFJ" /></center></a>
+         </div>
+       </div>
+
+       <div class="row">
+         <div class="columns small-12 medium-2 large-2" >
+           <a href="http://www.acq5.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/ACQ5.png" class="awards" alt="ACQ5" /></center></a>
+         </div>
+         <div class="columns small-12 medium-2 large-2" >
+           <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/UTBus_Peers.png" class="awards" alt="Peers" /></center></a>
+         </div>
+         <div class="columns small-12 medium-2 large-2" >
+           <a href="http://www.naopia.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/NAOPIALogo.png"  class="awards" alt="NAOPIAL" /></center></a>
+         </div>
+         <div class="columns small-12 medium-2 large-2">
+           <a href="https://www.distinguishedcounsel.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/top_one.png" class="awards" alt="Top One" /></center></a>
+         </div>
+         <div class="columns small-12 medium-2 large-2" >
+           <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/UtahBus_Elite.png"  class="awards" alt="Legal Elite" /></center></a>
+         </div>
+         <div class="columns small-12 medium-2 large-2" >
+           <a href="http://www.martindale.com/Mr-Charles-H-Thronson/2596500-lawyer.htm" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/AVPreeminent.png" class="awards" alt="AV" /></center></a>
+         </div>
+       </div>
+
+
+     </div>
+   </div>
+
+ </section>
+
+
+ <section id="abouts" style="padding: 100 0 100 0; margin: 0; background: white">
+
+   <div class="row desktop-practice practice">
+     <div class="columns small-12 medium-12 large-6" style="padding:0;">
+       <div style="padding: 5%">
+         <div style="padding: 50px 20px 20px 20px; border-left: solid 2px #DD8724;">
+           <h3>MEET<br>CHARLES</h3>
+           <p>
+             35 years of experience in personal injury and medical malpractice resulting in some of the largest verdicts and settlements in the Western United States.<br><br>
+             <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/about/">Read More</a>
+           </p>
+         </div>
+       </div>
+     </div>
+     <div class="columns small-12 medium-12 large-6" style="padding:0;">
+         <div class="practice-area" style="padding: 0; margin: 0; float: right;">
+           <a href="http://198.58.102.147/pbl_birth_injury/about/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
+         </div>
+     </div>
+
+   </div>
+   <div class="row desktop-practice practice" >
+     <div class="columns small-12 medium-12 large-6" style="padding:0;">
+         <div class="practice-area" style="padding: 0; margin: 0; float: left;">
+           <a href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
+         </div>
+     </div>
+     <div class="columns small-12 medium-12 large-6" style="padding:0;">
+       <div style="padding: 5%">
+         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
+           <h3 style="text-align: right;">ABOUT PARSONS<br>BEHLE & LATIMER</h3>
+           <p style="text-align: right; font-size: 18px;">
+             Since 1882 our success has been firmly rooted in our fundamental core calue: client service; professsional integrity; ethics and professionalism; collegiality; and community service.<br><br>
+             <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/">Read More</a>
+           </p>
+         </div>
+       </div>
+     </div>
+   </div>
+
+   <div class="row mobile-practice practice" style='padding: 20px;'>
+     <div class="columns small-12 medium-12 large-6">
+         <div class="practice-area text-center" style="padding: 20px;">
+           <a href="http://198.58.102.147/pbl_birth_injury/about/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
+         </div>
+     </div>
+     <div class="columns small-12 medium-12 large-6">
+       <div style="padding: 0 5% 0 5%">
+         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
+           <h3>MEET CHARLES</h3>
+           <p>
+             35 years of experience in personal injury and medical malpractice resulting in some of the largest verdicts and settlements in the Western United States.<br><br>
+             <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/about/">Read More</a>
+           </p>
+         </div>
+       </div>
+     </div>
+   </div>
+   <div class="row mobile-practice practice" style='padding: 20px;' >
+     <div class="columns small-12 medium-12 large-6">
+         <div class="practice-area text-center" style="padding: 20px;">
+           <a href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
+         </div>
+     </div>
+     <div class="columns small-12 medium-12 large-6">
+       <div style="padding: 0 5% 0 5%">
+         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
+           <h3>ABOUT PARSONS BEHLE & LATIMER</h3>
+           <p>
+             Since 1882 our success has been firmly rooted in our fundamental core calue: client service; professsional integrity; ethics and professionalism; collegiality; and community service.<br><br>
+             <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/">Read More</a>
+           </p>
+         </div>
+       </div>
+     </div>
+   </div>
+
+ </section>
+
+
+
+
+
  <?php
 
  $args = array(
@@ -142,154 +299,5 @@
   </div>
 </section>
 
-<section id="abouts" style="padding: 100 0 100 0; margin: 0; background: white">
-
-  <div class="row desktop-practice practice">
-    <div class="columns small-12 medium-12 large-6" style="padding:0;">
-        <div class="practice-area" style="padding: 0; margin: 0; float: right;">
-          <a href="http://198.58.102.147/pbl_birth_injury/about/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
-        </div>
-    </div>
-    <div class="columns small-12 medium-12 large-6" style="padding:0;">
-      <div style="padding: 5%">
-        <div style="padding: 50px 20px 20px 20px; border-left: solid 2px #DD8724;">
-          <h3>MEET<br>CHARLES</h3>
-          <p>
-            35 years of experience in personal injury and medical malpractice resulting in some of the largest verdicts and settlements in the Western United States.<br><br>
-            <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/about/">Read More</a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="row desktop-practice practice" >
-    <div class="columns small-12 medium-12 large-6" style="padding:0;">
-      <div style="padding: 5%">
-        <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
-          <h3 style="text-align: right;">ABOUT PARSONS<br>BEHLE & LATIMER</h3>
-          <p style="text-align: right; font-size: 18px;">
-            Since 1882 our success has been firmly rooted in our fundamental core calue: client service; professsional integrity; ethics and professionalism; collegiality; and community service.<br><br>
-            <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/">Read More</a>
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="columns small-12 medium-12 large-6" style="padding:0;">
-        <div class="practice-area" style="padding: 0; margin: 0; float: left;">
-          <a href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
-        </div>
-    </div>
-  </div>
-
-  <div class="row mobile-practice practice" style='padding: 20px;'>
-    <div class="columns small-12 medium-12 large-6">
-        <div class="practice-area text-center" style="padding: 20px;">
-          <a href="http://198.58.102.147/pbl_birth_injury/about/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
-        </div>
-    </div>
-    <div class="columns small-12 medium-12 large-6">
-      <div style="padding: 0 5% 0 5%">
-        <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
-          <h3>MEET CHARLES</h3>
-          <p>
-            35 years of experience in personal injury and medical malpractice resulting in some of the largest verdicts and settlements in the Western United States.<br><br>
-            <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/about/">Read More</a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="row mobile-practice practice" style='padding: 20px;' >
-    <div class="columns small-12 medium-12 large-6">
-        <div class="practice-area text-center" style="padding: 20px;">
-          <a href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
-        </div>
-    </div>
-    <div class="columns small-12 medium-12 large-6">
-      <div style="padding: 0 5% 0 5%">
-        <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
-          <h3>ABOUT PARSONS BEHLE & LATIMER</h3>
-          <p>
-            Since 1882 our success has been firmly rooted in our fundamental core calue: client service; professsional integrity; ethics and professionalism; collegiality; and community service.<br><br>
-            <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/">Read More</a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-</section>
-
-<section id="recognitions">
-  <style media="screen">
-    .awards{
-      width: 95px;
-      margin: 8px;
-    }
-    @media screen and (max-width: 640px){
-      .awards{
-        width: 50px;
-        margin: 15px;
-      }
-      .pbl-logo{
-      width: 75px;
-      }
-    }
-    @media screen and (max-width: 640px){
-      .awards{
-        width: 120px;
-        margin: 15px;
-      }
-    }
-  </style>
-  <div class="container" style="background: #9FACB5;">
-    <div class="footer">
-      <div class="row" style="padding-top: 50px;">
-        <div class="columns small-12 medium-2 large-2">
-          <a href="https://www.justice.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/AAFJ_logo.png"  class="awards" alt="AAFJ" />
-        </div>
-        <div class="columns small-12 medium-2 large-2">
-          <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/SuperLaw100.png" class="awards" alt="Top 100" /></center></a>
-        </div>
-        <div class="columns small-12 medium-2 large-2">
-          <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/BestLogo_2012.png"  class="awards" alt="Best 2012" /></center></a>
-        </div>
-        <div class="columns small-12 medium-2 large-2">
-          <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/BestLogo_2016.png" class="awards" alt="Best 2016" /></center></a>
-        </div>
-        <div class="columns small-12 medium-2 large-2">
-          <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/SuperLawMountain.png" class="awards" alt="Mountain States" /></center></a>
-        </div>
-        <div class="columns small-12 medium-2 large-2" >
-          <a href="https://www.utahassociationforjustice.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/UAFJ_logo.png" class="awards" alt="UAFJ" /></center></a>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="columns small-12 medium-2 large-2" >
-          <a href="http://www.acq5.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/ACQ5.png" class="awards" alt="ACQ5" /></center></a>
-        </div>
-        <div class="columns small-12 medium-2 large-2" >
-          <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/UTBus_Peers.png" class="awards" alt="Peers" /></center></a>
-        </div>
-        <div class="columns small-12 medium-2 large-2" >
-          <a href="http://www.naopia.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/NAOPIALogo.png"  class="awards" alt="NAOPIAL" /></center></a>
-        </div>
-        <div class="columns small-12 medium-2 large-2">
-          <a href="https://www.distinguishedcounsel.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/top_one.png" class="awards" alt="Top One" /></center></a>
-        </div>
-        <div class="columns small-12 medium-2 large-2" >
-          <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/UtahBus_Elite.png"  class="awards" alt="Legal Elite" /></center></a>
-        </div>
-        <div class="columns small-12 medium-2 large-2" >
-          <a href="http://www.martindale.com/Mr-Charles-H-Thronson/2596500-lawyer.htm" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/AVPreeminent.png" class="awards" alt="AV" /></center></a>
-        </div>
-      </div>
-
-
-    </div>
-  </div>
-
-</section>
 
 <?php get_footer(); ?>
