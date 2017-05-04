@@ -301,7 +301,7 @@
   </div>
 
 <div class="text-center">
-  <div class="modal" style="width: 80%; background: rgba(255,255,255,.8); position: relative; top: 25%; transform: translateX(-50%) translateY(-50%); left: 50%;">
+  <div class="modal" style="width: 80%; height: 80%; background: rgba(0,0,0,.8); position: fixed; top: 25%; transform: translateX(-50%) translateY(-50%); left: 50%;">
       <h1>IM A MODAL</h1>
   </div>
 </div>
