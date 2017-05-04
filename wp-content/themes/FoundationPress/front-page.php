@@ -300,9 +300,12 @@
     </div>
   </div>
 
-  <div class="modal" style="margin-left: auto; margin-right: auto: width: 80px; background: rgba(255,255,255,.8); position: absolute; top: 25%;">
+<div class="text-center">
+  <div class="modal" style="width: 80%; background: rgba(255,255,255,.8); position: relative; top: 25%; transform: translateX(-50%) translateY(-50%); left: 50%;">
       <h1>IM A MODAL</h1>
   </div>
+</div>
+
 
 
 
