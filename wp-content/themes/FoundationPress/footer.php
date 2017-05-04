@@ -8,7 +8,7 @@
       <div class="contact-info" style="float: left">
         <p class="body-copy" style="color: white; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
           <span style="font-size: 120%; font-weight: bold;">Charles H. Thronson</span><br>
-          Parsons Behle & Latimer<br> 
+          Parsons Behle & Latimer<br>
           201 South Main Street, Suite 1800<br>
           Salt Lake City, Utah 84111<br>
           800-532-0884
