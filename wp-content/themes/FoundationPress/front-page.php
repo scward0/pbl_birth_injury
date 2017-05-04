@@ -138,9 +138,9 @@
    <div class="row desktop-practice practice">
      <div class="columns small-12 medium-12 large-6" style="padding:0;">
        <div style="padding: 5%">
-         <div style="padding: 50px 20px 20px 20px; border-left: solid 2px #DD8724;">
-           <h3>MEET<br>CHARLES</h3>
-           <p>
+         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
+           <h3 style="text-align: right;">MEET<br>CHARLES</h3>
+           <p style="text-align: right; font-size: 18px;">
              35 years of experience in personal injury and medical malpractice resulting in some of the largest verdicts and settlements in the Western United States.<br><br>
              <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/about/">Read More</a>
            </p>
@@ -148,12 +148,13 @@
        </div>
      </div>
      <div class="columns small-12 medium-12 large-6" style="padding:0;">
-         <div class="practice-area" style="padding: 0; margin: 0; float: right;">
-           <a href="http://198.58.102.147/pbl_birth_injury/about/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
-         </div>
+       <div class="practice-area" style="padding: 0; margin: 0; float: right;">
+         <a href="http://198.58.102.147/pbl_birth_injury/about/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
+       </div>
      </div>
-
    </div>
+
+
    <div class="row desktop-practice practice" >
      <div class="columns small-12 medium-12 large-6" style="padding:0;">
          <div class="practice-area" style="padding: 0; margin: 0; float: left;">
@@ -162,9 +163,9 @@
      </div>
      <div class="columns small-12 medium-12 large-6" style="padding:0;">
        <div style="padding: 5%">
-         <div style="padding: 50px 20px 20px 20px; border-right: solid 2px #DD8724;">
-           <h3 style="text-align: right;">ABOUT PARSONS<br>BEHLE & LATIMER</h3>
-           <p style="text-align: right; font-size: 18px;">
+         <div style="padding: 50px 20px 20px 20px; border-left: solid 2px #DD8724;">
+           <h3>ABOUT PARSONS<br>BEHLE & LATIMER</h3>
+           <p style="font-size: 18px;">
              Since 1882 our success has been firmly rooted in our fundamental core calue: client service; professsional integrity; ethics and professionalism; collegiality; and community service.<br><br>
              <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/">Read More</a>
            </p>
