@@ -293,16 +293,16 @@
       <p style="font-size: 52px; color: white; text-transform: uppercase;">
         Charlie's Angels
       </p>
-      <a data-open="charliesAngels" href="#"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/Play.png" alt="Play"></a><br>
+      <a data-open="lightbox" href="#"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/Play.png" alt="Play"></a><br>
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     </div>
   </div>
 
 
 
-  <div class="reveal full text-center" style="background: black; position: fixed; top: 0;" id="charliesAngels" data-reveal data-reset-on-close="true">
+  <div class="reveal full text-center" id="lightbox" data-reveal data-reset-on-close="true">
     <div class="vid">
-      <div class="responsive-embed widescreen"><?php the_sub_field('video'); ?></div>
+      <div class="responsive-embed widescreen"><iframe src="https://vimeo.com/113553963?width=640&height=480" width="640" height="480"></iframe></div>
       <a data-close aria-label="Close modal" class="close-lightbox">Back</a>
     </div>
   </div>
