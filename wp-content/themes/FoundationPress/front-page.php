@@ -299,7 +299,7 @@
       <!-- Basic modal -->
       <div class="reveal large" id="angels" data-reveal data-reset-on-close="true" style="padding: 50px;">
         <button class="close-button" data-close aria-label="Close reveal" type="button">
-          <span aria-hidden="true">&times;</span>
+          <span aria-hidden="true" style="font-size: 35px;">&times;</span>
         </button>
         <iframe width="420" height="315" src="https://www.youtube.com/embed/mM5_T-F1Yn4" frameborder="0" allowfullscreen></iframe>
       </div>
