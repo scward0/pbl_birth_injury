@@ -1,6 +1,14 @@
 $(document).ready(function(){
 
 
+  $(document).on('click', '.modal-open', function () {
+    $('.modal').removeClass('hide');
+  });
+
+  $(document).on('click', '.modal-close', function () {
+    $('.modal').addClass('hide');
+  });
+
   if ($(window).width() < 1025) {
     $('.desktop-practice').addClass('hide');
     $('.mobile-practice').removeClass('hide');
@@ -31,6 +39,8 @@ $(document).ready(function(){
     autoplay: true,
     autoplaySpeed: 4000,
   });
+
+
 
   $(window).scroll(function() {
     var hT = $('.footer').offset().top,

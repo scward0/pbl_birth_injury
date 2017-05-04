@@ -293,26 +293,24 @@
       <p style="font-size: 52px; color: white; text-transform: uppercase;">
         Charlie's Angels
       </p>
-      <a data-open="lightbox" href="#"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/Play.png" alt="Play"></a><br>
+      <a class="modal-open" href="#"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/Play.png" alt="Play"></a><br>
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
-
     </div>
   </div>
 
-<div class="text-center">
-  <div class="modal text-center" style="width: 100%; height: 100%; background: rgba(0,0,0,.8); position: fixed; top: 50%; transform: translateX(-50%) translateY(-50%); left: 50%; padding: 200px 10% 10% 10%;" data-reset-on-close>
-    <div class="responsive-embed">
-      <span id="close-modal" data-close style="position: fixed; right:0; top: 150px; padding: 50px; font-size: 50px;">&times;</span>
-      <iframe width="420" height="315" src="https://www.youtube.com/embed/mM5_T-F1Yn4" frameborder="0" allowfullscreen></iframe>
+  <div class="text-center">
+    <div class="modal text-center" style="width: 100%; height: 100%; background: rgba(0,0,0,.8); position: fixed; top: 50%; transform: translateX(-50%) translateY(-50%); left: 50%; padding: 150px 10% 10% 10%;" data-reset-on-close>
+      <div class="responsive-embed">
+        <span class="modal-close" data-close style="position: fixed; right:0; top: 75px; padding: 50px; font-size: 50px; color: white;">&times;</span>
+        <iframe width="420" height="315" src="https://www.youtube.com/embed/mM5_T-F1Yn4" frameborder="0" allowfullscreen></iframe>
+      </div>
     </div>
   </div>
-</div>
-
-
-
 
 </section>
+
+
 
 
 <?php get_footer(); ?>
