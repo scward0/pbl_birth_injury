@@ -302,7 +302,7 @@
 
 <div class="text-center">
   <div class="modal" style="width: 100%; height: 100%; background: rgba(0,0,0,.8); position: fixed; top: 50%; transform: translateX(-50%) translateY(-50%); left: 50%;" data-reset-on-close>
-    <div class="responsive-embed" style="max-width: 800px; position: relative; transform: translateX(-50%) translateY(-50%); left: 50%; top:75%;">
+    <div class="responsive-embed" style="max-width: 800px; position: fixed; transform: translateX(-50%) translateY(-50%); left: 50%; top:75%;">
       <span id="close-modal" data-close style="position: fixed; right:0; top: 150px; padding: 50px; font-size: 50px;">&times;</span>
       <iframe width="420" height="315" src="https://www.youtube.com/embed/mM5_T-F1Yn4" frameborder="0" allowfullscreen></iframe>
 
