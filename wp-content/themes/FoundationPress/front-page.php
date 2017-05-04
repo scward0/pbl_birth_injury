@@ -301,9 +301,11 @@
   </div>
 
 <div class="text-center">
-  <div class="modal" style="width: 100%; height: 100%; background: rgba(0,0,0,.8); position: fixed; top: 50%; transform: translateX(-50%) translateY(-50%); left: 50%;">
+  <div class="modal" style="width: 100%; height: 100%; background: rgba(0,0,0,.8); position: fixed; top: 50%; transform: translateX(-50%) translateY(-50%); left: 50%;" data-reset-on-close>
     <div class="responsive-embed" style="max-width: 800px;">
+      <span id="close-modal" data-close style="position: fixed; right:0; top: 0; padding: 50px;">&times;</span>
       <iframe width="420" height="315" src="https://www.youtube.com/embed/mM5_T-F1Yn4" frameborder="0" allowfullscreen></iframe>
+
     </div>
   </div>
 </div>
