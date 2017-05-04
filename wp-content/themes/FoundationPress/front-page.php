@@ -297,7 +297,7 @@
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
       <!-- Basic modal -->
-      <div class="reveal large" id="angels" data-reveal data-reset-on-close="true">
+      <div class="reveal large" id="angels" data-reveal data-reset-on-close="true" style="padding: 50px;">
         <button class="close-button" data-close aria-label="Close reveal" type="button">
           <span aria-hidden="true">&times;</span>
         </button>
