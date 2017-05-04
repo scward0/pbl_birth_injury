@@ -296,30 +296,13 @@
       <a data-open="lightbox" href="#"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/Play.png" alt="Play"></a><br>
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
-      <p><a data-open="exampleModal1">Click me for a modal</a></p>
-
-        <div class="reveal" id="exampleModal1" data-reveal>
-        <h1>Awesome. I Have It.</h1>
-        <p class="lead">Your couch. It is mine.</p>
-        <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p>
-        <button class="close-button" data-close aria-label="Close modal" type="button">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
 
     </div>
   </div>
 
-
-  <div class="reveal large text-center" id="lightbox" data-reveal data-reset-on-close="true">
-    <div class="responsive-embed widescreen">
-
+  <div class="modal" style="margin-left: auto; margin-right: auto: width: 80px; background: rgba(255,255,255,.8); position: absolute; top: 25%;">
       <h1>IM A MODAL</h1>
-      <!-- <iframe src="https://vimeo.com/113553963?width=640&height=480" width="640" height="480"></iframe> -->
-    </div>
-    <a data-close aria-label="Close modal" class="close-lightbox">Back</a>
   </div>
-
 
 
 
