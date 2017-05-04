@@ -299,12 +299,13 @@
   </div>
 
 
+  <div class="reveal large text-center" id="lightbox" data-reveal data-reset-on-close="true">
+    <div class="responsive-embed widescreen">
 
-  <div class="reveal full text-center" id="lightbox" data-reveal data-reset-on-close="true">
-    <div class="vid">
-      <div class="responsive-embed widescreen"><iframe src="https://vimeo.com/113553963?width=640&height=480" width="640" height="480"></iframe></div>
-      <a data-close aria-label="Close modal" class="close-lightbox">Back</a>
+      <h1>IM A MODAL</h1>
+      <!-- <iframe src="https://vimeo.com/113553963?width=640&height=480" width="640" height="480"></iframe> -->
     </div>
+    <a data-close aria-label="Close modal" class="close-lightbox">Back</a>
   </div>
 
 </section>
