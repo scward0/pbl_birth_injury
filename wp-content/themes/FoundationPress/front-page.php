@@ -295,6 +295,18 @@
       </p>
       <a data-open="lightbox" href="#"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/Play.png" alt="Play"></a><br>
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+      <p><a data-open="exampleModal1">Click me for a modal</a></p>
+
+        <div class="reveal" id="exampleModal1" data-reveal>
+        <h1>Awesome. I Have It.</h1>
+        <p class="lead">Your couch. It is mine.</p>
+        <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p>
+        <button class="close-button" data-close aria-label="Close modal" type="button">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+
     </div>
   </div>
 
@@ -309,14 +321,7 @@
   </div>
 
 
-  <a href="#" data-reveal-id="myModal">Click Me For A Modal</a>
 
-  <div id="myModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-    <h2 id="modalTitle">Awesome. I have it.</h2>
-    <p class="lead">Your couch.  It is mine.</p>
-    <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p>
-    <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-  </div>
 
 </section>
 
