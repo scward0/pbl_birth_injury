@@ -297,18 +297,13 @@
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
       <!-- Basic modal -->
-      <div class="reveal" id="angels" data-reveal data-reset-on-close="true">
+      <div class="reveal large" id="angels" data-reveal data-reset-on-close="true">
+        <button class="close-button" data-close aria-label="Close reveal" type="button">
+          <span aria-hidden="true">&times;</span>
+        </button>
         <iframe width="420" height="315" src="https://www.youtube.com/embed/mM5_T-F1Yn4" frameborder="0" allowfullscreen></iframe>
       </div>
 
-    </div>
-  </div>
-
-  <div class="text-center">
-    <div class="modal text-center hide" style="width: 100%; height: 100%; background: rgba(0,0,0,.8); position: fixed; top: 50%; transform: translateX(-50%) translateY(-50%); left: 50%; padding: 150px 10% 10% 10%;" data-reset-on-close>
-      <div class="responsive-embed">
-        <a class="modal-close" href="#" data-close style="position: fixed; right:0; top: 75px; padding: 50px; font-size: 50px; color: white;">&times;</a>
-      </div>
     </div>
   </div>
 
