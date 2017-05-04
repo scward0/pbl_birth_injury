@@ -7815,7 +7815,8 @@ body {
     font-size: 300%;
     height: 340px !important; }
   #pillars .block {
-    padding: 10%; }
+    padding: 10%;
+    margin-bottom: 135px; }
   #pillars .block h3 .smaller {
     line-height: 28px; } }
 
