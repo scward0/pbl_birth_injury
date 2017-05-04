@@ -132,7 +132,7 @@
  </section>
 
 
- <section id="abouts" style="padding: 100 0 100 0; margin: 0; background: white">
+ <section id="abouts" style="padding: 100 0 0 0; margin: 0; background: white">
 
    <div class="row desktop-practice practice">
      <div class="columns small-12 medium-12 large-6" style="padding:0;">
@@ -147,7 +147,7 @@
        </div>
      </div>
      <div class="columns small-12 medium-12 large-6" style="padding:0;">
-       <div class="practice-area" style="padding: 0; margin: 0; float: right;">
+       <div class="practice-area" style="padding: 0; margin: 0; float: left;">
          <a href="http://198.58.102.147/pbl_birth_injury/about/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
        </div>
      </div>
@@ -156,7 +156,7 @@
 
    <div class="row desktop-practice practice" >
      <div class="columns small-12 medium-12 large-6" style="padding:0;">
-         <div class="practice-area" style="padding: 0; margin: 0; float: left;">
+         <div class="practice-area" style="padding: 0; margin: 0; float: right;">
            <a href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
          </div>
      </div>
