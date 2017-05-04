@@ -125,8 +125,7 @@
            <a href="http://www.martindale.com/Mr-Charles-H-Thronson/2596500-lawyer.htm" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/AVPreeminent.png" class="awards" alt="AV" /></center></a>
          </div>
        </div>
-
-
+       <br /><br />
      </div>
    </div>
 
