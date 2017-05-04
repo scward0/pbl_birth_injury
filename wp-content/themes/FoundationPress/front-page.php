@@ -225,7 +225,7 @@
 
   ?>
 
-<section id="pa" class="container no-max" id='practice-areas' style="background: white; padding: 5%;">
+<section id="pa" class="container no-max" id='practice-areas' style="background: white; padding: 0 5% 5% 5%;">
   <?php if( $query->have_posts() ) : while($query->have_posts() ) : $query->the_post() ?>
     <?php  $i++; ?>
 
