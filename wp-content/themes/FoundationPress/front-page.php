@@ -137,7 +137,7 @@
          </div>
          <div class="columns small-12 medium-3 large-3">
            <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/BestLogo_2016.png" class="awards" alt="Best 2016" /></center></a><br>
-           <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/SuperLaw100.png" class="awards" alt="Top 100" /></center></a>
+           <a href="https://www.distinguishedcounsel.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/top_one.png" class="awards" alt="Top One" /></center></a>
          </div>
          <div class="columns small-12 medium-3 large-3">
            <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/BestLogo_2012.png"  class="awards" alt="Best 2012" /></center></a><br>
