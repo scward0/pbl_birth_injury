@@ -136,12 +136,12 @@
            <a href="http://www.acq5.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/ACQ5.png" class="awards" alt="ACQ5" /></center></a><br />
          </div>
          <div class="columns small-12 medium-3 large-3">
-           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/BestLogo_2016.png" class="awards" alt="Best 2016" /></center></a><br>
-           <a href="https://www.distinguishedcounsel.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/top_one.png" class="awards" alt="Top One" /></center></a>
+           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/BestLogo_2016.png" class="awards" alt="Best 2016" width="190"/></center></a><br>
+           <a href="https://www.distinguishedcounsel.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/top_one.png" class="awards" alt="Top One" width="190" /></center></a>
          </div>
          <div class="columns small-12 medium-3 large-3">
-           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/BestLogo_2012.png"  class="awards" alt="Best 2012" /></center></a><br>
-           <a href="http://www.naopia.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/NAOPIALogo.png"  class="awards" alt="NAOPIAL" /></center></a>
+           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/BestLogo_2012.png"  class="awards" alt="Best 2012" width="190"/></center></a><br>
+           <a href="http://www.naopia.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/NAOPIALogo.png"  class="awards" alt="NAOPIAL" width="190"/></center></a>
          </div>
          <div class="columns small-12 medium-3 large-3">
            <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/UtahBus_Elite.png"  class="awards" alt="Legal Elite" /></center></a><br>
