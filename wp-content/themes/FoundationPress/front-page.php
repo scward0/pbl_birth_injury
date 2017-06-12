@@ -63,14 +63,10 @@
  <section id="recognitions">
    <style media="screen">
      .awards{
-       width: 95px;
+       width: 130px;
        margin: 8px;
      }
      @media screen and (max-width: 640px){
-       .awards{
-         width: 50px;
-         margin: 15px;
-       }
        .pbl-logo{
        width: 75px;
        }
@@ -84,50 +80,7 @@
    </style>
    <div class="container" style="background: #9FACB5;">
      <div class="footer">
-       <!-- <div class="row" style="padding-top: 50px;">
-         <div class="columns small-12 medium-2 large-2">
-           <a href="https://www.justice.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/AAFJ_logo.png"  class="awards" alt="AAFJ" />
-         </div>
-         <div class="columns small-12 medium-2 large-2">
-           <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/SuperLaw100.png" class="awards" alt="Top 100" /></center></a>
-         </div>
-         <div class="columns small-12 medium-2 large-2">
-           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/BestLogo_2012.png"  class="awards" alt="Best 2012" /></center></a>
-         </div>
-         <div class="columns small-12 medium-2 large-2">
-           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/BestLogo_2016.png" class="awards" alt="Best 2016" /></center></a>
-         </div>
-         <div class="columns small-12 medium-2 large-2">
-           <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/SuperLawMountain.png" class="awards" alt="Mountain States" /></center></a>
-         </div>
-         <div class="columns small-12 medium-2 large-2" >
-           <a href="https://www.utahassociationforjustice.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/UAFJ_logo.png" class="awards" alt="UAFJ" /></center></a>
-         </div>
-       </div>
-
-       <div class="row">
-         <div class="columns small-12 medium-2 large-2" >
-           <a href="http://www.acq5.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/ACQ5.png" class="awards" alt="ACQ5" /></center></a>
-         </div>
-         <div class="columns small-12 medium-2 large-2" >
-           <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/UTBus_Peers.png" class="awards" alt="Peers" /></center></a>
-         </div>
-         <div class="columns small-12 medium-2 large-2" >
-           <a href="http://www.naopia.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/NAOPIALogo.png"  class="awards" alt="NAOPIAL" /></center></a>
-         </div>
-         <div class="columns small-12 medium-2 large-2">
-           <a href="https://www.distinguishedcounsel.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/top_one.png" class="awards" alt="Top One" /></center></a>
-         </div>
-         <div class="columns small-12 medium-2 large-2" >
-           <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/UtahBus_Elite.png"  class="awards" alt="Legal Elite" /></center></a>
-         </div>
-         <div class="columns small-12 medium-2 large-2" >
-           <a href="http://www.martindale.com/Mr-Charles-H-Thronson/2596500-lawyer.htm" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/AVPreeminent.png" class="awards" alt="AV" /></center></a>
-         </div>
-       </div> -->
        <br /><br />
-
-
        <div class="row">
          <div class="columns small-12 medium-3 large-3">
            <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/06/SLUtah.png" class="awards" alt="Top 100" /></center></a><br />
