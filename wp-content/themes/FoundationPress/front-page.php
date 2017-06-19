@@ -261,11 +261,11 @@
   <?php endwhile; endif; wp_reset_postdata(); ?>
 
 
-  <div class="row text-center">
+  <!-- <div class="row text-center">
     <p class="text-center">
       <a id="learn-more" class="button large" href="http://198.58.102.147/pbl_birth_injury/birth-injuries/">DO I HAVE A CASE?</a>
     </p>
-  </div>
+  </div> -->
 </section>
 
 <section id="video" style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/CharlieVideoBackground.jpg'); background-size: cover; height: 600px;">
