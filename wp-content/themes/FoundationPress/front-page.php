@@ -28,7 +28,7 @@
       <p class="text-center subhead">
         HANDLING BIRTH INJURY CASES
       </p>
-
+      <br />
     </div>
   </div>
 </div>
