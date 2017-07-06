@@ -1,12 +1,14 @@
 
 # BEGIN WordPress
+
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /pbl_birth_injury/
+RewriteBase /
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /pbl_birth_injury/index.php [L]
+RewriteRule . /index.php [L]
 </IfModule>
+
 
 # END WordPress
