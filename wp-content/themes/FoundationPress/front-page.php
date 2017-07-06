@@ -76,7 +76,7 @@
        }
      }
    </style>
-   <div class="container" style="background: #9FACB5;">
+   <!-- <div class="container" style="background: #9FACB5;">
      <div class="footer">
        <br /><br />
        <div class="row">
@@ -102,7 +102,7 @@
          </div>
        </div>
      </div>
-   </div>
+   </div> -->
 
  </section>
 
