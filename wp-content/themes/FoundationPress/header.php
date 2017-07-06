@@ -14,8 +14,8 @@
 	<head>
 		<meta charset="<?php bloginfo( 'charset' ); ?>" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="stylesheet" type="text/css" href="http://198.58.102.147/pbl_birth_injury/wp-content/themes/FoundationPress/slick/slick.css"/>
-		<link rel="stylesheet" type="text/css" href="http://198.58.102.147/pbl_birth_injury/wp-content/themes/FoundationPress/slick/slick-theme.css"/>
+		<link rel="stylesheet" type="text/css" href="http://birthinjuryattorneyinfo.com/wp-content/themes/FoundationPress/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="http://birthinjuryattorneyinfo.com/wp-content/themes/FoundationPress/slick/slick-theme.css"/>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<?php wp_head(); ?>
@@ -48,9 +48,9 @@
 					text-transform: uppercase;
 					padding: 10px 0 !important;
 				}
-				div.fullscreenmenu ul.nav-menu li a[href="http://198.58.102.147/pbl_birth_injury/practice_area/statutes-of-limitation/"],
-				div.fullscreenmenu ul.nav-menu li a[href="http://198.58.102.147/pbl_birth_injury/practice_area/cerebral-palsy/"],
-				div.fullscreenmenu ul.nav-menu li a[href="http://198.58.102.147/pbl_birth_injury/practice_area/injuries-to-children/"],
+				div.fullscreenmenu ul.nav-menu li a[href="http://birthinjuryattorneyinfo.com/practice_area/statutes-of-limitation/"],
+				div.fullscreenmenu ul.nav-menu li a[href="http://birthinjuryattorneyinfo.com/practice_area/cerebral-palsy/"],
+				div.fullscreenmenu ul.nav-menu li a[href="http://birthinjuryattorneyinfo.com/practice_area/injuries-to-children/"],
 				div.fullscreenmenu ul.nav-menu li a[href="http://www.medicalmalpracticeattorneyinfo.com/"] {
 					font-size: 75% !important;
 					padding: 8px 0 !important;
@@ -78,8 +78,8 @@
 					}
 				}
 				</style>
-				<li class="home"><a class="desk-logo" href="<?php bloginfo('url'); ?>/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/charles_thronson_logo.png" width="300" style="z-index: 5; opacity: 1;"alt="<?php bloginfo('name'); ?>"/></a></li>
-				<li><a href="http://198.58.102.147/pbl_birth_injury/contact/"><span id="schedule">Schedule a free consultation: 800-532-0884</span></a></li>
+				<li class="home"><a class="desk-logo" href="<?php bloginfo('url'); ?>/"><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/02/charles_thronson_logo.png" width="300" style="z-index: 5; opacity: 1;"alt="<?php bloginfo('name'); ?>"/></a></li>
+				<li><a href="http://birthinjuryattorneyinfo.com/contact/"><span id="schedule">Schedule a free consultation: 800-532-0884</span></a></li>
 				<i class="fa fa-bars fa-4x"  onclick="menu1.togglemenu(); return false"></i>
 			</ul>
 			<div class="navi hide">

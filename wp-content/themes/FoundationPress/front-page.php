@@ -1,23 +1,23 @@
 <div id="parllax-slider" class="collapse" style="padding: 0;">
   <div class="slick desktop-slick hide-for-small-only">
-    <div style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Artboard_1_copy_4.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; " src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/hero2.png">
+    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Artboard_1_copy_4.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; " src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/hero2.png">
       <img style="display: none;" alt="" />
     </div>
-    <div style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Artboard_1_copy_7.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Artboard_1_copy_7.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <img style="display: none;" alt="" />
     </div>
-    <div style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Artboard_1_copy_6.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Artboard_1_copy_6.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <img style="display: none;" alt="" />
     </div>
   </div>
   <div class="slick mobile-slick show-for-small-only">
-    <div style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Background4.jpg'); height: 100%;  background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover; ">
+    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Background4.jpg'); height: 100%;  background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover; ">
       <img style="display: none; height:100vh !important; width: 100%; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;" alt="slick hidden" />
     </div>
-    <div style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Background7.jpg'); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;">
+    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Background7.jpg'); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;">
       <img style="display: none; height:100vh !important; width: 100%; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;" alt="slick hidden" />
     </div>
-    <div style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Background6.jpg'); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;">
+    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Background6.jpg'); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;">
       <img style="display: none; height:100vh !important; width: 100%; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;" alt="slick hidden" />
     </div>
   </div>
@@ -36,22 +36,22 @@
  <section id='pillars'  class="row no-max collapse" style="padding: 50px 50px 0 50px !important;">
    <div class="small-12 medium-12 large-4 columns">
      <div class="block text-center">
-       <img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Experience.jpg" alt="" />
-       <h3 >Experience<br><br><span class="smaller">Led by Charles Thronson, the Personal Injury practice group at Parsons Behle & Latimer has more than thirty years of experience representing clients in birth injury, cerebral palsy, and severe child injury cases.</span><br><br><a class="read-more" href="http://198.58.102.147/pbl_birth_injury/about/">Learn about Charles Thronson</a></h3>
+       <img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Experience.jpg" alt="" />
+       <h3 >Experience<br><br><span class="smaller">Led by Charles Thronson, the Personal Injury practice group at Parsons Behle & Latimer has more than thirty years of experience representing clients in birth injury, cerebral palsy, and severe child injury cases.</span><br><br><a class="read-more" href="http://birthinjuryattorneyinfo.com/about/">Learn about Charles Thronson</a></h3>
 
      </div>
    </div>
    <div class="small-12 medium-12 large-4 columns">
      <div class="block text-center">
-       <img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Results.jpg" alt="" />
-       <h3>Results<br><br><span class="smaller">We represent innocent victims of medical negligence and believe injured children and their families deserve the best possible legal representation possible. Our track record includes achieving a number of multi-million dollar settlements for our clients.</span><br><br><a class="read-more" href="http://198.58.102.147/pbl_birth_injury/our-families/">See Our Results</a></h3>
+       <img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Results.jpg" alt="" />
+       <h3>Results<br><br><span class="smaller">We represent innocent victims of medical negligence and believe injured children and their families deserve the best possible legal representation possible. Our track record includes achieving a number of multi-million dollar settlements for our clients.</span><br><br><a class="read-more" href="http://birthinjuryattorneyinfo.com/our-families/">See Our Results</a></h3>
 
      </div>
    </div>
    <div class="small-12 medium-12 large-4 columns">
      <div class="block text-center">
-       <img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Integrity.jpg" alt="" />
-       <h3>Integrity<br><br><span class="smaller">Parsons Behle & Latimer is one of the 300 largest firms in America. Our size, reputation and resources give us a distinct advantage when handling birth injuries and injured children cases.</span><br><br><a class="read-more" href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/">Read about the Firm</a></h3>
+       <img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Integrity.jpg" alt="" />
+       <h3>Integrity<br><br><span class="smaller">Parsons Behle & Latimer is one of the 300 largest firms in America. Our size, reputation and resources give us a distinct advantage when handling birth injuries and injured children cases.</span><br><br><a class="read-more" href="http://birthinjuryattorneyinfo.com/parsons-behle-latimer/">Read about the Firm</a></h3>
 
      </div>
    </div>
@@ -81,24 +81,24 @@
        <br /><br />
        <div class="row">
          <div class="columns small-12 medium-3 large-3">
-           <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/06/SLUtah.png" class="awards" alt="Top 100" /></center></a><br />
-           <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/06/SLMountain.png" class="awards" alt="Mountain States" /></center></a><br />
-           <a href="https://www.justice.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/06/AAofJ.png"  class="awards" alt="AAFJ" /><br />
-           <a href="http://www.acq5.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/06/ACQ5_awards.png" class="awards" alt="ACQ5" style="margin-top: 40px;" /></center></a><br />
+           <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/SLUtah.png" class="awards" alt="Top 100" /></center></a><br />
+           <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/SLMountain.png" class="awards" alt="Mountain States" /></center></a><br />
+           <a href="https://www.justice.org/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/AAofJ.png"  class="awards" alt="AAFJ" /><br />
+           <a href="http://www.acq5.com/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/ACQ5_awards.png" class="awards" alt="ACQ5" style="margin-top: 40px;" /></center></a><br />
          </div>
          <div class="columns small-12 medium-3 large-3">
-           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/06/2016Best.png" class="awards" alt="Best 2016"/></center></a><br>
-           <a href="https://www.distinguishedcounsel.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/06/TopOne.png" class="awards" alt="Top One"/></center></a>
+           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/2016Best.png" class="awards" alt="Best 2016"/></center></a><br>
+           <a href="https://www.distinguishedcounsel.org/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/TopOne.png" class="awards" alt="Top One"/></center></a>
          </div>
          <div class="columns small-12 medium-3 large-3">
-           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/06/2012Best.png"  class="awards" alt="Best 2012"/></center></a><br>
-           <a href="http://www.naopia.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/06/NAOPIALogo.png"  class="awards" alt="NAOPIAL"/></center></a>
+           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/2012Best.png"  class="awards" alt="Best 2012"/></center></a><br>
+           <a href="http://www.naopia.com/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/NAOPIALogo.png"  class="awards" alt="NAOPIAL"/></center></a>
          </div>
          <div class="columns small-12 medium-3 large-3">
-           <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/06/UB_UtahLegalElite.png"  class="awards" alt="Legal Elite" /></center></a><br>
-           <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/06/UB_TopLawyers.png" class="awards" alt="Peers" /></center></a><br>
-           <a href="https://www.utahassociationforjustice.org/" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/06/UAforJ.png" class="awards" alt="UAFJ" /></center></a><br>
-           <a href="http://www.martindale.com/Mr-Charles-H-Thronson/2596500-lawyer.htm" target="_blank"><center><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/06/AV.png" class="awards" alt="AV" style="width: 100px; "/></center></a>
+           <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/UB_UtahLegalElite.png"  class="awards" alt="Legal Elite" /></center></a><br>
+           <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/UB_TopLawyers.png" class="awards" alt="Peers" /></center></a><br>
+           <a href="https://www.utahassociationforjustice.org/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/UAforJ.png" class="awards" alt="UAFJ" /></center></a><br>
+           <a href="http://www.martindale.com/Mr-Charles-H-Thronson/2596500-lawyer.htm" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/AV.png" class="awards" alt="AV" style="width: 100px; "/></center></a>
          </div>
        </div>
      </div>
@@ -116,14 +116,14 @@
            <h3 style="text-align: right;">MEET<br>CHARLES</h3>
            <p style="text-align: right; font-size: 18px;">
              35 years of experience in personal injury and medical malpractice resulting in some of the largest verdicts and settlements in the Western United States.<br><br>
-             <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/about/">Read More</a>
+             <a class="read-more" href="http://birthinjuryattorneyinfo.com/about/">Read More</a>
            </p>
          </div>
        </div>
      </div>
      <div class="columns small-12 medium-12 large-6" style="padding:0;">
        <div class="practice-area" style="padding: 0; margin: 0; float: left;">
-         <a href="http://198.58.102.147/pbl_birth_injury/about/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
+         <a href="http://birthinjuryattorneyinfo.com/about/"><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
        </div>
      </div>
    </div>
@@ -132,7 +132,7 @@
    <div class="row desktop-practice practice" >
      <div class="columns small-12 medium-12 large-6" style="padding:0;">
          <div class="practice-area" style="padding: 0; margin: 0; float: right;">
-           <a href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
+           <a href="http://birthinjuryattorneyinfo.com/parsons-behle-latimer/"><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
          </div>
      </div>
      <div class="columns small-12 medium-12 large-6" style="padding:0;">
@@ -141,7 +141,7 @@
            <h3>ABOUT PARSONS<br>BEHLE & LATIMER</h3>
            <p style="font-size: 18px;">
              Since 1882 our success has been firmly rooted in our fundamental core calue: client service; professsional integrity; ethics and professionalism; collegiality; and community service.<br><br>
-             <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/">Read More</a>
+             <a class="read-more" href="http://birthinjuryattorneyinfo.com/parsons-behle-latimer/">Read More</a>
            </p>
          </div>
        </div>
@@ -151,7 +151,7 @@
    <div class="row mobile-practice practice" style='padding: 20px;'>
      <div class="columns small-12 medium-12 large-6">
          <div class="practice-area text-center" style="padding: 20px;">
-           <a href="http://198.58.102.147/pbl_birth_injury/about/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
+           <a href="http://birthinjuryattorneyinfo.com/about/"><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Charles.jpg" alt="" /></a>
          </div>
      </div>
      <div class="columns small-12 medium-12 large-6">
@@ -160,7 +160,7 @@
            <h3>MEET CHARLES</h3>
            <p>
              35 years of experience in personal injury and medical malpractice resulting in some of the largest verdicts and settlements in the Western United States.<br><br>
-             <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/about/">Read More</a>
+             <a class="read-more" href="http://birthinjuryattorneyinfo.com/about/">Read More</a>
            </p>
          </div>
        </div>
@@ -169,7 +169,7 @@
    <div class="row mobile-practice practice" style='padding: 20px;' >
      <div class="columns small-12 medium-12 large-6">
          <div class="practice-area text-center" style="padding: 20px;">
-           <a href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
+           <a href="http://birthinjuryattorneyinfo.com/parsons-behle-latimer/"><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/PBL.jpg" alt="" /></a>
          </div>
      </div>
      <div class="columns small-12 medium-12 large-6">
@@ -178,7 +178,7 @@
            <h3>ABOUT PARSONS BEHLE & LATIMER</h3>
            <p>
              Since 1882 our success has been firmly rooted in our fundamental core calue: client service; professsional integrity; ethics and professionalism; collegiality; and community service.<br><br>
-             <a class="read-more" href="http://198.58.102.147/pbl_birth_injury/parsons-behle-latimer/">Read More</a>
+             <a class="read-more" href="http://birthinjuryattorneyinfo.com/parsons-behle-latimer/">Read More</a>
            </p>
          </div>
        </div>
@@ -263,19 +263,19 @@
 
   <!-- <div class="row text-center">
     <p class="text-center">
-      <a id="learn-more" class="button large" href="http://198.58.102.147/pbl_birth_injury/birth-injuries/">DO I HAVE A CASE?</a>
+      <a id="learn-more" class="button large" href="http://birthinjuryattorneyinfo.com/birth-injuries/">DO I HAVE A CASE?</a>
     </p>
   </div> -->
 </section>
 
-<section id="video" style="background: url('http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/01/CharlieVideoBackground.jpg'); background-size: cover; height: 600px;">
+<section id="video" style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/CharlieVideoBackground.jpg'); background-size: cover; height: 600px;">
   <div class="row text-center align-middle">
     <div class="columns small-12 medium-12 large-12 charlies-angels">
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <p style="font-size: 52px; color: white; text-transform: uppercase;">
         Charlie's Angels
       </p>
-      <a data-open="angels" href="#"><img src="http://198.58.102.147/pbl_birth_injury/wp-content/uploads/2017/02/Play.png" alt="Play"></a><br>
+      <a data-open="angels" href="#"><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/02/Play.png" alt="Play"></a><br>
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
       <!-- Basic modal -->
