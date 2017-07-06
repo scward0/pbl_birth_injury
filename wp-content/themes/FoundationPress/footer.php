@@ -1,8 +1,8 @@
-<footer style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/02/footer3.jpg') no-repeat center bottom; background-size: cover;">
+<footer style="background: url('http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/01/footer3.jpg') no-repeat center bottom; background-size: cover;">
   <div class="row" style="padding-top: 150px;">
     <div class="columns small-12 medium-6">
       <br>
-      <img style="float: right;" src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/02/pbl_logo.png" class="pbl-logo" width="100px" alt="PBL Logo" />
+      <img style="float: right;" src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2016/12/pbl_logo.png" class="pbl-logo" width="100px" alt="PBL Logo" />
     </div>
     <div class="columns small-12 medium-6">
       <div class="contact-info" style="float: left">
