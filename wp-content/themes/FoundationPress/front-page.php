@@ -275,7 +275,7 @@
       <p style="font-size: 52px; color: white; text-transform: uppercase;">
         Charlie's Angels
       </p>
-      <a data-open="angels" href="#"><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/02/Play.png" alt="Play"></a><br>
+      <a data-open="angels" href="#"><img src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/BirthPlay.png" alt="Play"></a><br>
       <span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
       <!-- Basic modal -->
