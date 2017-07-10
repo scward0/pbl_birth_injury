@@ -11,13 +11,13 @@
     </div>
   </div>
   <div class="slick mobile-slick show-for-small-only">
-    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Background4.jpg'); height: 100%;  background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover; ">
+    <div style="background: url('http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/Background4.jpg'); height: 100%;  background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover; ">
       <img style="display: none; height:100vh !important; width: 100%; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;" alt="slick hidden" />
     </div>
-    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Background7.jpg'); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;">
+    <div style="background: url('http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/Background7.jpg'); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;">
       <img style="display: none; height:100vh !important; width: 100%; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;" alt="slick hidden" />
     </div>
-    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Background6.jpg'); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;">
+    <div style="background: url('http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/Background6.jpg'); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;">
       <img style="display: none; height:100vh !important; width: 100%; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;" alt="slick hidden" />
     </div>
   </div>
@@ -76,33 +76,33 @@
        }
      }
    </style>
-   <!-- <div class="container" style="background: #9FACB5;">
+   <div class="container" style="background: #9FACB5;">
      <div class="footer">
        <br /><br />
        <div class="row">
          <div class="columns small-12 medium-3 large-3">
-           <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/SLUtah.png" class="awards" alt="Top 100" /></center></a><br />
-           <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/SLMountain.png" class="awards" alt="Mountain States" /></center></a><br />
-           <a href="https://www.justice.org/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/AAofJ.png"  class="awards" alt="AAFJ" /><br />
-           <a href="http://www.acq5.com/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/ACQ5_awards.png" class="awards" alt="ACQ5" style="margin-top: 40px;" /></center></a><br />
+           <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/SLUtah.png" class="awards" alt="Top 100" /></center></a><br />
+           <a href="https://www.superlawyers.com/" target="_blank"><center><img src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/SLMountain.png" class="awards" alt="Mountain States" /></center></a><br />
+           <a href="https://www.justice.org/" target="_blank"><center><img src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/AAofJ.png"  class="awards" alt="AAFJ" /><br />
+           <a href="http://www.acq5.com/" target="_blank"><center><img src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/ACQ5_awards.png" class="awards" alt="ACQ5" style="margin-top: 40px;" /></center></a><br />
          </div>
          <div class="columns small-12 medium-3 large-3">
-           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/2016Best.png" class="awards" alt="Best 2016"/></center></a><br>
-           <a href="https://www.distinguishedcounsel.org/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/TopOne.png" class="awards" alt="Top One"/></center></a>
+           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/Birth2016Best.png" class="awards" alt="Best 2016"/></center></a><br>
+           <a href="https://www.distinguishedcounsel.org/" target="_blank"><center><img src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/NADC_logo_200-copy.png" class="awards" alt="Top One"/></center></a>
          </div>
          <div class="columns small-12 medium-3 large-3">
-           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/2012Best.png"  class="awards" alt="Best 2012"/></center></a><br>
-           <a href="http://www.naopia.com/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/NAOPIALogo.png"  class="awards" alt="NAOPIAL"/></center></a>
+           <a href="https://www.bestlawyers.com/lawyers/charles-h-thronson/29293/" target="_blank"><center><img src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/Birth2012Best.png"  class="awards" alt="Best 2012"/></center></a><br>
+           <a href="http://www.naopia.com/" target="_blank"><center><img src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/NAOPIALogo-copy.png"  class="awards" alt="NAOPIAL"/></center></a>
          </div>
          <div class="columns small-12 medium-3 large-3">
-           <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/UB_UtahLegalElite.png"  class="awards" alt="Legal Elite" /></center></a><br>
-           <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/UB_TopLawyers.png" class="awards" alt="Peers" /></center></a><br>
-           <a href="https://www.utahassociationforjustice.org/" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/UAforJ.png" class="awards" alt="UAFJ" /></center></a><br>
-           <a href="http://www.martindale.com/Mr-Charles-H-Thronson/2596500-lawyer.htm" target="_blank"><center><img src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/06/AV.png" class="awards" alt="AV" style="width: 100px; "/></center></a>
+           <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/UB_UtahLegalElite.png"  class="awards" alt="Legal Elite" /></center></a><br>
+           <a href="http://www.utahbusiness.com/" target="_blank"><center><img src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/UB_TopLawyers.png" class="awards" alt="Peers" /></center></a><br>
+           <a href="https://www.utahassociationforjustice.org/" target="_blank"><center><img src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/UAforJ.png" class="awards" alt="UAFJ" /></center></a><br>
+           <a href="http://www.martindale.com/Mr-Charles-H-Thronson/2596500-lawyer.htm" target="_blank"><center><img src="http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/AV2.png" class="awards" alt="AV" style="width: 100px; "/></center></a>
          </div>
        </div>
      </div>
-   </div> -->
+   </div>
 
  </section>
 
