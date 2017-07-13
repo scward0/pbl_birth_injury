@@ -7911,6 +7911,12 @@ label[for="input_1_1_3"] {
 label[for="input_1_1_6"] {
   display: none !important; }
 
+#input_1_1_3_container {
+  float: none !important; }
+
+#input_1_1_6_container {
+  float: none !important; }
+
 label[for="nf-field-9"] {
   color: #374A58 !important;
   font-family: Arial !important; }
