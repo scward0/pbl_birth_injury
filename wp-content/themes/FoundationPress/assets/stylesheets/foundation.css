@@ -7894,7 +7894,8 @@ body {
   padding: 2%;
   -webkit-box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.2);
           box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.2);
-  font-family: Arial !important; }
+  font-family: Arial !important;
+  margin-bottom: 50px !important; }
 
 .nf-form-title h3, .gform_title {
   color: white !important;
