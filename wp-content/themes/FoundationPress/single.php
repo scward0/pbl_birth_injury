@@ -14,7 +14,7 @@
         <?php the_field('content'); ?>
       </div>
       <div class="columns small-12 medium-12 large-4">
-          <?php echo do_shortcode('[ninja_form id=2]') ?>
+          <?php echo do_shortcode('[gravityform id="1" title="true" description="false" ajax="true"]') ?>
       </div>
     </div>
     <div class="row">
