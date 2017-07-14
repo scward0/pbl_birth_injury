@@ -1,5 +1,5 @@
 <div id="parllax-slider" class="collapse" style="padding: 0;">
-  <div class="slick desktop-slick show-for-large hide-for-landscape hide-for-portrait">
+  <div class="slick desktop-slick hide-for-small-only">
     <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Artboard_1_copy_4.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; " src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/hero2.png">
       <img style="display: none;" alt="" />
     </div>
@@ -10,7 +10,7 @@
       <img style="display: none;" alt="" />
     </div>
   </div>
-  <div class="slick mobile-slick hide-for-large show-for-landscape show-for-portrait">
+  <div class="slick mobile-slick show-for-small-only">
     <div style="background: url('http://www.medicalmalpracticeattorneyinfo.com/wp-content/uploads/2017/07/Background4.jpg'); height: 100%;  background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover; ">
       <img style="display: none; height:100vh !important; width: 100%; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;" alt="slick hidden" />
     </div>
