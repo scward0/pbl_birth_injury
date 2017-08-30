@@ -4,7 +4,7 @@
   <div class="row text-center" >
     <h1 class="text-center page-title">Thank you for your submission.<br><span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></h1>
     <div style="padding: 20px;">
-      <p>Your case information is very valuable to us, we will contact you regarding your case as soon as we can.</p>
+      <p style="font-size: 20px; margin-top: 50px;">Your case information is very valuable to us, we will contact you regarding your case as soon as we can.</p>
     </div>
   </div>
 </div>
