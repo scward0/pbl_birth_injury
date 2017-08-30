@@ -1,13 +1,13 @@
 <div id="parllax-slider" class="collapse" style="padding: 0;">
   <div class="slick desktop-slick hide-for-small-only">
-    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Artboard_1_copy_4.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover; background-attachment: scroll; ">
-      <img style="display: none; height:100vh !important; width: 100%; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;" alt="" />
+    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Artboard_1_copy_4.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; " src="http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/hero2.png">
+      <img style="display: none;" alt="" />
     </div>
-    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Artboard_1_copy_7.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover; background-attachment: scroll;">
-      <img style="display: none; height:100vh !important; width: 100%; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;" alt="" />
+    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Artboard_1_copy_7.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+      <img style="display: none;" alt="" />
     </div>
-    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Artboard_1_copy_6.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; overflow: hidden; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover; background-attachment: scroll;">
-      <img style="display: none; height:100vh !important; width: 100%; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;" alt="" />
+    <div style="background: url('http://birthinjuryattorneyinfo.com/wp-content/uploads/2017/01/Artboard_1_copy_6.jpg'); height: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+      <img style="display: none;" alt="" />
     </div>
   </div>
   <div class="slick mobile-slick show-for-small-only">
