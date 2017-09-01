@@ -18,6 +18,8 @@
 		<link rel="stylesheet" type="text/css" href="http://birthinjuryattorneyinfo.com/wp-content/themes/FoundationPress/slick/slick-theme.css"/>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<script type="text/javascript"> new Image().src = '//clickserv.basis.net/conv/227f994f449045ee';
+</script>
 		<?php wp_head(); ?>
 	</head>
 
