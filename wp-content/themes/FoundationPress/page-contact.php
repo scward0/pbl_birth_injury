@@ -4,13 +4,13 @@
   <div class="row text-center" >
     <h1 class="text-center page-title"><?php the_title(); ?> <br><span class="title-hr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></h1>
   </div>
-  <div class="row">
-    <div class="columns small-12 medium-12 large-8" id="about">
+  <div class="row" style="margin-top: 50px;">
+    <div id="form" class="columns small-12 medium-12 large-8">
+        <?php echo do_shortcode('[gravityform id="1" title="true" description="false" ajax="true"]') ?>
+    </div>
+    <div class="columns small-12 medium-12 large-4" id="about" style="padding: 20px;">
       <?php the_field('content'); ?> <br>
       <?php the_field('google_map'); ?>
-    </div>
-    <div id="form" class="columns small-12 medium-12 large-4">
-        <?php echo do_shortcode('[gravityform id="1" title="true" description="false" ajax="true"]') ?>
     </div>
   </div>
   <div class="row">
